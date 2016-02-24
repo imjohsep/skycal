@@ -1,0 +1,758 @@
+{ 
+    "eventList": [ 
+        {
+            "date": "Jan 02 05:30", 
+            "event": "LAST QUARTER MOON (pronounced neap tides)"
+        }, {
+            "date": "Jan 02 11:53", 
+            "event": "Moon farthest from Earth (apogee): 251,207 miles (404,279 km)"
+        }, {
+            "date": "Jan 02 23:00", 
+            "event": "Earth closest to sun (perihelion): 91,403,445 miles (147,099,586 km, 0.98330 AU)"
+        }, {
+            "date": "Jan 03 03:35", 
+            "event": "Spica 4.7°S of moon"
+        }, {
+            "date": "Jan 03 18:45", 
+            "event": "Mars 1.5°S of moon"
+        }, {
+            "date": "Jan 04 08:00", 
+            "event": "Quadrantid meteor shower"
+        }, {
+            "date": "Jan 06 23:57", 
+            "event": "Venus 3.1°S of moon"
+        }, {
+            "date": "Jan 07 04:57", 
+            "event": "Saturn 3.3°S of moon"
+        }, {
+            "date": "Jan 07 11:34", 
+            "event": "Venus 6.3°N of Antares"
+        }, {
+            "date": "Jan 08 18:00", 
+            "event": "Mercury closest to sun (perihelion)"
+        }, {
+            "date": "Jan 10 01:30", 
+            "event": "NEW MOON"
+        }, {
+            "date": "Jan 14 14:00", 
+            "event": "Mercury at inferior conjunction"
+        }, {
+            "date": "Jan 14 15:48", 
+            "event": "Moon at descending node"
+        }, {
+            "date": "Jan 15 02:10", 
+            "event": "Moon closest to Earth (perigee): 369,619 km"
+        }, {
+            "date": "Jan 16 23:26", 
+            "event": "FIRST QUARTER MOON"
+        }, {
+            "date": "Jan 20 02:16", 
+            "event": "Aldebaran 0.5°S of moon"
+        }, {
+            "date": "Jan 24 01:46", 
+            "event": "FULL MOON"
+        }, {
+            "date": "Jan 26 05:10", 
+            "event": "Regulus 2.5°N of moon"
+        }, {
+            "date": "Jan 27 23:58", 
+            "event": "Moon at ascending node"
+        }, {
+            "date": "Jan 28 01:14", 
+            "event": "Jupiter 1.4°N of moon (closest from North America on January 2:7)"
+        }, {
+            "date": "Jan 30 09:10", 
+            "event": "Moon farthest from Earth (apogee): 404,553 km"
+        }, {
+            "date": "Jan 30 11:35", 
+            "event": "Spica 5.0°S of moon"
+        }, { 
+            "date": "Feb 01 03:28", 
+            "event": "LAST QUARTER MOON"
+        }, { 
+            "date": "Feb 01 08:48", 
+            "event": "Mars 2.7°S of moon"
+        }, { 
+            "date": "Feb 03 19:05", 
+            "event": "Saturn 3.5°S of moon"
+        }, { 
+            "date": "Feb 06 07:32", 
+            "event": "Venus 4.3°S of moon"
+        }, { 
+            "date": "Feb 06 16:47", 
+            "event": "Mercury 3.8°S of moon"
+        }, { 
+            "date": "Feb 07 01:00", 
+            "event": "Mercury at greatest elongation: 25.6°W"
+        }, { 
+            "date": "Feb 08 14:39", 
+            "event": "NEW MOON"
+        }, { 
+            "date": "Feb 10 20:46", 
+            "event": "Moon at descending node"
+        }, { 
+            "date": "Feb 11 02:42", 
+            "event": "Moon at perigee: 364358 km"
+        }, { 
+            "date": "Feb 13 03:00", 
+            "event": "Mercury 4.0° of Venus"
+        }, { 
+            "date": "Feb 15 07:46", 
+            "event": "FIRST QUARTER MOON"
+        }, { 
+            "date": "Feb 16 07:41", 
+            "event": "Aldebaran 0.3°S of moon"
+        }, { 
+            "date": "Feb 21 17:00", 
+            "event": "Mercury at aphelion"
+        }, { 
+            "date": "Feb 22 12:48", 
+            "event": "Regulus 2.5°N of moon"
+        }, { 
+            "date": "Feb 22 18:20", 
+            "event": "FULL MOON"
+        }, { 
+            "date": "Feb 24 03:58", 
+            "event": "Jupiter 1.7°N of moon"
+        }, { 
+            "date": "Feb 24 06:10", 
+            "event": "Moon at ascending node"
+        }, { 
+            "date": "Feb 26 19:05", 
+            "event": "Spica 5.1°S of moon"
+        }, { 
+            "date": "Feb 27 03:28", 
+            "event": "Moon at apogee: 405383 km"
+        }, { 
+            "date": "Feb 28 15:00", 
+            "event": "Neptune in conjunction with sun"
+        }, { 
+            "date": "Feb 29 18:16", 
+            "event": "Mars 3.6°S of moon"
+        }, {
+            "date": "Mar 01 23:11", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Mar 02 06:53", 
+            "event": "Saturn 3.6°S of moon"
+        },{
+            "date": "Mar 07 10:54", 
+            "event": "Venus 3.5°S of moon"
+        },{
+            "date": "Mar 08 10:00", 
+            "event": "Jupiter at opposition"
+        },{
+            "date": "Mar 09 01:54", 
+            "event": "NEW MOON"
+        },{
+            "date": "Mar 09 01:57", 
+            "event": "Total solar eclipse; mag=1.045"
+        },{
+            "date": "Mar 09 06:31", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Mar 10 07:02", 
+            "event": "Moon at perigee: 359509 km"
+        },{
+            "date": "Mar 14 13:44", 
+            "event": "Aldebaran 0.3°S of moon"
+        },{
+            "date": "Mar 15 17:03", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Mar 20 04:31", 
+            "event": "Vernal equinox"
+        },{
+            "date": "Mar 20 14:00", 
+            "event": "Venus at aphelion"
+        },{
+            "date": "Mar 20 19:05", 
+            "event": "Regulus 2.5°N of moon"
+        },{
+            "date": "Mar 22 03:57", 
+            "event": "Jupiter 2.1°N of moon"
+        },{
+            "date": "Mar 22 12:59", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Mar 23 11:47", 
+            "event": "Penumbral lunar eclipse; mag=0.775"
+        },{
+            "date": "Mar 23 12:01", 
+            "event": "FULL MOON"
+        },{
+            "date": "Mar 23 20:00", 
+            "event": "Mercury at superior conjunction"
+        },{
+            "date": "Mar 25 01:50", 
+            "event": "Spica 5.1°S of moon"
+        },{
+            "date": "Mar 25 14:16", 
+            "event": "Moon at apogee: 406125 km"
+        },{
+            "date": "Mar 28 18:45", 
+            "event": "Mars 4.2°S of moon"
+        },{
+            "date": "Mar 29 14:58", 
+            "event": "Saturn 3.5°S of moon"
+        },{
+            "date": "Mar 31 15:17", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Apr 05 17:00", 
+            "event": "Mercury at perihelion"
+        },{
+            "date": "Apr 05 17:27", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Apr 06 08:30", 
+            "event": "Venus 0.7°S of moon: occultation"
+        },{
+            "date": "Apr 07 11:24", 
+            "event": "NEW MOON"
+        },{
+            "date": "Apr 07 17:36", 
+            "event": "Moon at perigee: 357164 km"
+        },{
+            "date": "Apr 08 10:35", 
+            "event": "Mercury 5.2°N of moon"
+        },{
+            "date": "Apr 09 21:00", 
+            "event": "Uranus in conjunction with sun"
+        },{
+            "date": "Apr 10 22:05", 
+            "event": "Aldebaran 0.4°S of moon"
+        },{
+            "date": "Apr 14 03:59", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Apr 17 00:46", 
+            "event": "Regulus 2.5°N of moon"
+        },{
+            "date": "Apr 18 04:42", 
+            "event": "Jupiter 2.2°N of moon"
+        },{
+            "date": "Apr 18 14:00", 
+            "event": "Mercury at greatest elongation: 19.9°E"
+        },{
+            "date": "Apr 18 18:04", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Apr 21 07:59", 
+            "event": "Spica 5.1°S of moon"
+        },{
+            "date": "Apr 21 16:05", 
+            "event": "Moon at apogee: 406352 km"
+        },{
+            "date": "Apr 22 05:24", 
+            "event": "FULL MOON"
+        },{
+            "date": "Apr 22 05:00", 
+            "event": "Lyrid meteor shower"
+        },{
+            "date": "Apr 25 04:13", 
+            "event": "Mars 4.9°S of moon"
+        },{
+            "date": "Apr 25 19:28", 
+            "event": "Saturn 3.3°S of moon"
+        },{
+            "date": "Apr 27 13:51", 
+            "event": "Mars 4.8°N of Antares"
+        },{
+            "date": "Apr 28 08:14", 
+            "event": "Mercury 3.0°S of Pleiades"
+        },{
+            "date": "Apr 30 03:29", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "May 03 01:27", 
+            "event": "Moon at descending node"
+        },{
+            "date": "May 04 19:00", 
+            "event": "Eta-Aquarid meteor shower"
+        },{
+            "date": "May 06 04:14", 
+            "event": "Moon at perigee: 357828 km"
+        },{
+            "date": "May 06 19:30", 
+            "event": "NEW MOON"
+        },{
+            "date": "May 08 08:21", 
+            "event": "Aldebaran 0.5°S of moon"
+        },{
+            "date": "May 09 15:00", 
+            "event": "Mercury at inferior conjunction"
+        },{
+            "date": "May 09 15:00", 
+            "event": "Transit of Mercury across sun"
+        },{
+            "date": "May 13 17:02", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "May 14 07:06", 
+            "event": "Regulus 2.3°N of moon"
+        },{
+            "date": "May 15 09:30", 
+            "event": "Jupiter 2.0°N of moon"
+        },{
+            "date": "May 15 20:39", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "May 18 14:07", 
+            "event": "Spica 5.1°S of Moon"
+        },{
+            "date": "May 18 22:06", 
+            "event": "Moon at apogee: 405934 km"
+        },{
+            "date": "May 21 21:15", 
+            "event": "FULL MOON"
+        },{
+            "date": "May 22 11:00", 
+            "event": "Mars at opposition"
+        },{
+            "date": "May 22 21:59", 
+            "event": "Saturn 3.2°S of moon"
+        },{
+            "date": "May 29 12:12", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "May 30 04:45", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Jun 03 06:00", 
+            "event": "Saturn at opposition"
+        },{
+            "date": "Jun 03 09:47", 
+            "event": "Mercury 0.7°N of moon: occultation"
+        },{
+            "date": "Jun 03 10:55", 
+            "event": "Moon at perigee: 361142 km"
+        },{
+            "date": "Jun 05 03:00", 
+            "event": "NEW MOON"
+        },{
+            "date": "Jun 05 09:00", 
+            "event": "Mercury at greatest elongation: 24.2°W"
+        },{
+            "date": "Jun 06 22:00", 
+            "event": "Venus at superior conjunction"
+        },{
+            "date": "Jun 10 14:47", 
+            "event": "Regulus 2.0°N of moon"
+        },{
+            "date": "Jun 11 19:35", 
+            "event": "Jupiter 1.5°N of moon"
+        },{
+            "date": "Jun 11 22:20", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Jun 12 08:10", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Jun 13 10:06", 
+            "event": "Mercury 6.4°S of Pleiades"
+        },{
+            "date": "Jun 14 20:47", 
+            "event": "Spica 5.3°S of moon"
+        },{
+            "date": "Jun 15 12:00", 
+            "event": "Moon at apogee: 405022 km"
+        },{
+            "date": "Jun 19 00:40", 
+            "event": "Saturn 3.3°S of moon"
+        },{
+            "date": "Jun 19 03:39", 
+            "event": "Mercury 3.7°N of Aldebaran"
+        },{
+            "date": "Jun 20 11:02", 
+            "event": "FULL MOON"
+        },{
+            "date": "Jun 20 22:35", 
+            "event": "Summer solstice"
+        },{
+            "date": "Jun 26 05:28", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Jun 27 18:19", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Jul 01 06:45", 
+            "event": "Moon at perigee: 365983 km"
+        },{
+            "date": "Jul 02 03:58", 
+            "event": "Aldebaran 0.4°S of moon"
+        },{
+            "date": "Jul 02 16:00", 
+            "event": "Mercury at perihelion"
+        },{
+            "date": "Jul 04 11:01", 
+            "event": "NEW MOON"
+        },{
+            "date": "Jul 04 16:00", 
+            "event": "Earth at aphelion: 1.01675 AU"
+        },{
+            "date": "Jul 07 03:00", 
+            "event": "Mercury at superior conjunction"
+        },{
+            "date": "Jul 07 23:33", 
+            "event": "Regulus 1.8°N of moon"
+        },{
+            "date": "Jul 09 01:41", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Jul 09 10:08", 
+            "event": "Jupiter 0.9°N of moon: occultation"
+        },{
+            "date": "Jul 10 23:00", 
+            "event": "Venus at perihelion"
+        },{
+            "date": "Jul 12 00:52", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Jul 12 04:13", 
+            "event": "Spica 5.6°S of Moon"
+        },{
+            "date": "Jul 13 05:24", 
+            "event": "Moon at apogee: 404272 km"
+        },{
+            "date": "Jul 16 05:11", 
+            "event": "Saturn 3.4°S of moon"
+        },{
+            "date": "Jul 19 22:57", 
+            "event": "FULL MOON"
+        },{
+            "date": "Jul 23 07:49", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Jul 26 23:00", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Jul 27 11:25", 
+            "event": "Moon at perigee: 369659 km"
+        },{
+            "date": "Jul 27 21:00", 
+            "event": "Delta-Aquarid meteor shower"
+        },{
+            "date": "Jul 29 10:53", 
+            "event": "Aldebaran 0.3°S of moon"
+        },{
+            "date": "Jul 30 15:55", 
+            "event": "Mercury 0.3°N of Regulus"
+        },{
+            "date": "Aug 02 20:45", 
+            "event": "NEW MOON"
+        },{
+            "date": "Aug 04 06:19", 
+            "event": "Venus 2.9°N of moon"
+        },{
+            "date": "Aug 04 22:12", 
+            "event": "Mercury 0.6°N of moon: occultation"
+        },{
+            "date": "Aug 05 07:48", 
+            "event": "Moon at Ascending Node"
+        },{
+            "date": "Aug 05 11:57", 
+            "event": "Venus 1.0°N of Regulus"
+        },{
+            "date": "Aug 06 03:28", 
+            "event": "Jupiter 0.2°N of moon: occultation"
+        },{
+            "date": "Aug 08 12:08", 
+            "event": "Spica 5.8°S of moon"
+        },{
+            "date": "Aug 10 00:05", 
+            "event": "Moon at apogee: 404266 km"
+        },{
+            "date": "Aug 10 18:21", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Aug 12 12:10", 
+            "event": "Saturn 3.7°S of moon"
+        },{
+            "date": "Aug 12 12:00", 
+            "event": "Perseid meteor shower"
+        },{
+            "date": "Aug 15 16:00", 
+            "event": "Mercury at aphelion"
+        },{
+            "date": "Aug 16 21:00", 
+            "event": "Mercury at greatest elongation: 27.4°E"
+        },{
+            "date": "Aug 18 09:27", 
+            "event": "FULL MOON"
+        },{
+            "date": "Aug 19 14:14", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Aug 20 06:00", 
+            "event": "Mercury 3.8° of Jupiter"
+        },{
+            "date": "Aug 22 01:20", 
+            "event": "Moon at perigee: 367047 km"
+        },{
+            "date": "Aug 24 05:09", 
+            "event": "Mars 1.8°N of Antares"
+        },{
+            "date": "Aug 25 03:41", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Aug 25 16:21", 
+            "event": "Aldebaran 0.2°S of moon"
+        },{
+            "date": "Aug 28 20:00", 
+            "event": "Mercury 5.0° of Venus"
+        },{
+            "date": "Sep 01 09:03", 
+            "event": "NEW MOON"
+        },{
+            "date": "Sep 01 09:07", 
+            "event": "Annular solar eclipse; mag=0.974"
+        },{
+            "date": "Sep 01 15:27", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Sep 02 15:00", 
+            "event": "Neptune at opposition"
+        },{
+            "date": "Sep 03 10:33", 
+            "event": "Venus 1.1°S of moon: occultation"
+        },{
+            "date": "Sep 04 19:56", 
+            "event": "Spica 5.8°S of moon"
+        },{
+            "date": "Sep 04 20:05", 
+            "event": "Saturn 5.9°N of Antares"
+        },{
+            "date": "Sep 06 18:44", 
+            "event": "Moon at apogee: 405059 km"
+        },{
+            "date": "Sep 08 21:23", 
+            "event": "Saturn 3.8°S of moon"
+        },{
+            "date": "Sep 09 11:49", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Sep 13 00:00", 
+            "event": "Mercury at inferior conjunction"
+        },{
+            "date": "Sep 15 23:55", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Sep 16 18:54", 
+            "event": "Penumbral lunar eclipse; mag=0.908"
+        },{
+            "date": "Sep 16 19:05", 
+            "event": "FULL MOON"
+        },{
+            "date": "Sep 18 15:15", 
+            "event": "Venus 2.2°N of Spica"
+        },{
+            "date": "Sep 18 17:00", 
+            "event": "Moon at perigee: 361894 km"
+        },{
+            "date": "Sep 21 22:13", 
+            "event": "Aldebaran 0.2°S of moon"
+        },{
+            "date": "Sep 22 14:21", 
+            "event": "Autumnal equinox"
+        },{
+            "date": "Sep 23 09:56", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Sep 26 06:00", 
+            "event": "Jupiter in conjunction with sun"
+        },{
+            "date": "Sep 27 22:32", 
+            "event": "Regulus 1.7°N of moon"
+        },{
+            "date": "Sep 28 15:00", 
+            "event": "Mercury at perihelion"
+        },{
+            "date": "Sep 28 19:00", 
+            "event": "Mercury at greatest elongation: 17.9°W"
+        },{
+            "date": "Sep 28 22:06", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Sep 29 10:42", 
+            "event": "Mercury 0.7°N of moon: occultation"
+        },{
+            "date": "Oct 01 00:12", 
+            "event": "NEW MOON"
+        },{
+            "date": "Oct 03 17:30", 
+            "event": "Venus 5.0°S of moon"
+        },{
+            "date": "Oct 04 11:02", 
+            "event": "Moon at apogee: 406100 km"
+        },{
+            "date": "Oct 06 08:04", 
+            "event": "Saturn 3.8°S of moon"
+        },{
+            "date": "Oct 09 04:33", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Oct 13 09:43", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Oct 15 10:00", 
+            "event": "Uranus at opposition"
+        },{
+            "date": "Oct 16 04:23", 
+            "event": "FULL MOON"
+        },{
+            "date": "Oct 16 23:36", 
+            "event": "Moon at perigee: 357860 km"
+        },{
+            "date": "Oct 19 06:18", 
+            "event": "Aldebaran 0.3°S of moon"
+        },{
+            "date": "Oct 21 05:00", 
+            "event": "Orionid meteor shower"
+        },{
+            "date": "Oct 22 19:14", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Oct 25 04:01", 
+            "event": "Regulus 1.6°N of moon"
+        },{
+            "date": "Oct 26 01:44", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Oct 26 10:56", 
+            "event": "Venus 3.0°N of Antares"
+        },{
+            "date": "Oct 27 16:00", 
+            "event": "Mercury at superior conjunction"
+        },{
+            "date": "Oct 28 09:33", 
+            "event": "Jupiter 1.4°S of moon"
+        },{
+            "date": "Oct 29 12:00", 
+            "event": "Mars at perihelion"
+        },{
+            "date": "Oct 30 17:38", 
+            "event": "NEW MOON"
+        },{
+            "date": "Oct 31 19:29", 
+            "event": "Moon at apogee: 406660 km"
+        },{
+            "date": "Nov 02 19:38", 
+            "event": "Saturn 3.7°S of moon"
+        },{
+            "date": "Nov 05 05:00", 
+            "event": "S Taurid meteor shower"
+        },{
+            "date": "Nov 06 12:07", 
+            "event": "Mars 5.3°S of moon"
+        },{
+            "date": "Nov 07 19:51", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Nov 09 15:57", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Nov 12 04:00", 
+            "event": "N Taurid meteor shower"
+        },{
+            "date": "Nov 14 11:23", 
+            "event": "Moon at perigee: 356512 km"
+        },{
+            "date": "Nov 14 13:52", 
+            "event": "FULL MOON"
+        },{
+            "date": "Nov 15 16:50", 
+            "event": "Aldebaran 0.4°S of moon"
+        },{
+            "date": "Nov 17 11:00", 
+            "event": "Leonid meteor shower"
+        },{
+            "date": "Nov 19 17:51", 
+            "event": "Beehive 4.3°N of moon"
+        },{
+            "date": "Nov 21 08:33", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Nov 21 10:08", 
+            "event": "Regulus 1.3°N of moon"
+        },{
+            "date": "Nov 22 02:48", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Nov 23 19:00", 
+            "event": "Mercury 3.4° of Saturn"
+        },{
+            "date": "Nov 25 01:47", 
+            "event": "Jupiter 1.9°S of moon"
+        },{
+            "date": "Nov 27 20:08", 
+            "event": "Moon at apogee: 406556 km"
+        },{
+            "date": "Nov 29 12:18", 
+            "event": "NEW MOON"
+        },{
+            "date": "Dec 03 12:34", 
+            "event": "Venus 5.8°S of moon"
+        },{
+            "date": "Dec 05 10:39", 
+            "event": "Mars 2.9°S of moon"
+        },{
+            "date": "Dec 06 17:35", 
+            "event": "Moon at descending node"
+        },{
+            "date": "Dec 07 09:03", 
+            "event": "FIRST QUARTER MOON"
+        },{
+            "date": "Dec 10 11:00", 
+            "event": "Saturn in conjunction with sun"
+        },{
+            "date": "Dec 11 04:00", 
+            "event": "Mercury at greatest elongation: 20.8°E"
+        },{
+            "date": "Dec 12 23:27", 
+            "event": "Moon at perigee: 358463 km"
+        },{
+            "date": "Dec 13 04:14", 
+            "event": "Aldebaran 0.5°S of Moon"
+        },{
+            "date": "Dec 14 00:00", 
+            "event": "Geminid meteor shower"
+        },{
+            "date": "Dec 14 00:06", 
+            "event": "FULL MOON"
+        },{
+            "date": "Dec 17 03:17", 
+            "event": "Beehive 4.1°N of moon"
+        },{
+            "date": "Dec 18 18:13", 
+            "event": "Regulus 1.0°N of moon"
+        },{
+            "date": "Dec 19 04:46", 
+            "event": "Moon at ascending node"
+        },{
+            "date": "Dec 21 01:56", 
+            "event": "LAST QUARTER MOON"
+        },{
+            "date": "Dec 21 10:45", 
+            "event": "Winter solstice"
+        },{
+            "date": "Dec 22 08:00", 
+            "event": "Ursid meteor shower"
+        },{
+            "date": "Dec 22 16:37", 
+            "event": "Jupiter 2.4°S of moon"
+        },{
+            "date": "Dec 25 05:55", 
+            "event": "Moon at apogee: 405870 km"
+        },{
+            "date": "Dec 25 15:00", 
+            "event": "Mercury at perihelion"
+        },{
+            "date": "Dec 28 19:00", 
+            "event": "Mercury at inferior conjunction"
+        },{
+            "date": "Dec 29 06:53", 
+            "event": "NEW MOON"
+        }
+    ]
+}

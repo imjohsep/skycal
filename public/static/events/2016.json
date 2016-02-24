@@ -1,0 +1,1006 @@
+[
+    {
+        "date": "02 Jan 2016 05:30",
+        "event": "LAST QUARTER MOON (pronounced neap tides)"
+    },
+    {
+        "date": "02 Jan 2016 11:53",
+        "event": "Moon farthest from Earth (apogee): 251,207 miles (404,279 km)"
+    },
+    {
+        "date": "02 Jan 2016 23:00",
+        "event": "Earth closest to sun (perihelion): 91,403,445 miles (147,099,586 km, 0.98330 AU)"
+    },
+    {
+        "date": "03 Jan 2016 03:35",
+        "event": "Spica 4.7\u00b0S of moon"
+    },
+    {
+        "date": "03 Jan 2016 18:45",
+        "event": "Mars 1.5\u00b0S of moon"
+    },
+    {
+        "date": "04 Jan 2016 08:00",
+        "event": "Quadrantid meteor shower"
+    },
+    {
+        "date": "06 Jan 2016 23:57",
+        "event": "Venus 3.1\u00b0S of moon"
+    },
+    {
+        "date": "07 Jan 2016 04:57",
+        "event": "Saturn 3.3\u00b0S of moon"
+    },
+    {
+        "date": "07 Jan 2016 11:34",
+        "event": "Venus 6.3\u00b0N of Antares"
+    },
+    {
+        "date": "08 Jan 2016 18:00",
+        "event": "Mercury closest to sun (perihelion)"
+    },
+    {
+        "date": "10 Jan 2016 01:30",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "14 Jan 2016 14:00",
+        "event": "Mercury at inferior conjunction"
+    },
+    {
+        "date": "14 Jan 2016 15:48",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "15 Jan 2016 02:10",
+        "event": "Moon closest to Earth (perigee): 369,619 km"
+    },
+    {
+        "date": "16 Jan 2016 23:26",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "20 Jan 2016 02:16",
+        "event": "Aldebaran 0.5\u00b0S of moon"
+    },
+    {
+        "date": "24 Jan 2016 01:46",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "26 Jan 2016 05:10",
+        "event": "Regulus 2.5\u00b0N of moon"
+    },
+    {
+        "date": "27 Jan 2016 23:58",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "28 Jan 2016 01:14",
+        "event": "Jupiter 1.4\u00b0N of moon (closest from North America on January 2:7)"
+    },
+    {
+        "date": "30 Jan 2016 09:10",
+        "event": "Moon farthest from Earth (apogee): 404,553 km"
+    },
+    {
+        "date": "30 Jan 2016 11:35",
+        "event": "Spica 5.0\u00b0S of moon"
+    },
+    {
+        "date": "01 Feb 2016 03:28",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "01 Feb 2016 08:48",
+        "event": "Mars 2.7\u00b0S of moon"
+    },
+    {
+        "date": "03 Feb 2016 19:05",
+        "event": "Saturn 3.5\u00b0S of moon"
+    },
+    {
+        "date": "06 Feb 2016 07:32",
+        "event": "Venus 4.3\u00b0S of moon"
+    },
+    {
+        "date": "06 Feb 2016 16:47",
+        "event": "Mercury 3.8\u00b0S of moon"
+    },
+    {
+        "date": "07 Feb 2016 01:00",
+        "event": "Mercury at greatest elongation: 25.6\u00b0W"
+    },
+    {
+        "date": "08 Feb 2016 14:39",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "10 Feb 2016 20:46",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "11 Feb 2016 02:42",
+        "event": "Moon at perigee: 364358 km"
+    },
+    {
+        "date": "13 Feb 2016 03:00",
+        "event": "Mercury 4.0\u00b0 of Venus"
+    },
+    {
+        "date": "15 Feb 2016 07:46",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "16 Feb 2016 07:41",
+        "event": "Aldebaran 0.3\u00b0S of moon"
+    },
+    {
+        "date": "21 Feb 2016 17:00",
+        "event": "Mercury at aphelion"
+    },
+    {
+        "date": "22 Feb 2016 12:48",
+        "event": "Regulus 2.5\u00b0N of moon"
+    },
+    {
+        "date": "22 Feb 2016 18:20",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "24 Feb 2016 03:58",
+        "event": "Jupiter 1.7\u00b0N of moon"
+    },
+    {
+        "date": "24 Feb 2016 06:10",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "26 Feb 2016 19:05",
+        "event": "Spica 5.1\u00b0S of moon"
+    },
+    {
+        "date": "27 Feb 2016 03:28",
+        "event": "Moon at apogee: 405383 km"
+    },
+    {
+        "date": "28 Feb 2016 15:00",
+        "event": "Neptune in conjunction with sun"
+    },
+    {
+        "date": "29 Feb 2016 18:16",
+        "event": "Mars 3.6\u00b0S of moon"
+    },
+    {
+        "date": "01 Mar 2016 23:11",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "02 Mar 2016 06:53",
+        "event": "Saturn 3.6\u00b0S of moon"
+    },
+    {
+        "date": "07 Mar 2016 10:54",
+        "event": "Venus 3.5\u00b0S of moon"
+    },
+    {
+        "date": "08 Mar 2016 10:00",
+        "event": "Jupiter at opposition"
+    },
+    {
+        "date": "09 Mar 2016 01:54",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "09 Mar 2016 01:57",
+        "event": "Total solar eclipse; mag=1.045"
+    },
+    {
+        "date": "09 Mar 2016 06:31",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "10 Mar 2016 07:02",
+        "event": "Moon at perigee: 359509 km"
+    },
+    {
+        "date": "14 Mar 2016 13:44",
+        "event": "Aldebaran 0.3\u00b0S of moon"
+    },
+    {
+        "date": "15 Mar 2016 17:03",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "20 Mar 2016 04:31",
+        "event": "Vernal equinox"
+    },
+    {
+        "date": "20 Mar 2016 14:00",
+        "event": "Venus at aphelion"
+    },
+    {
+        "date": "20 Mar 2016 19:05",
+        "event": "Regulus 2.5\u00b0N of moon"
+    },
+    {
+        "date": "22 Mar 2016 03:57",
+        "event": "Jupiter 2.1\u00b0N of moon"
+    },
+    {
+        "date": "22 Mar 2016 12:59",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "23 Mar 2016 11:47",
+        "event": "Penumbral lunar eclipse; mag=0.775"
+    },
+    {
+        "date": "23 Mar 2016 12:01",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "23 Mar 2016 20:00",
+        "event": "Mercury at superior conjunction"
+    },
+    {
+        "date": "25 Mar 2016 01:50",
+        "event": "Spica 5.1\u00b0S of moon"
+    },
+    {
+        "date": "25 Mar 2016 14:16",
+        "event": "Moon at apogee: 406125 km"
+    },
+    {
+        "date": "28 Mar 2016 18:45",
+        "event": "Mars 4.2\u00b0S of moon"
+    },
+    {
+        "date": "29 Mar 2016 14:58",
+        "event": "Saturn 3.5\u00b0S of moon"
+    },
+    {
+        "date": "31 Mar 2016 15:17",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "05 Apr 2016 17:00",
+        "event": "Mercury at perihelion"
+    },
+    {
+        "date": "05 Apr 2016 17:27",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "06 Apr 2016 08:30",
+        "event": "Venus 0.7\u00b0S of moon: occultation"
+    },
+    {
+        "date": "07 Apr 2016 11:24",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "07 Apr 2016 17:36",
+        "event": "Moon at perigee: 357164 km"
+    },
+    {
+        "date": "08 Apr 2016 10:35",
+        "event": "Mercury 5.2\u00b0N of moon"
+    },
+    {
+        "date": "09 Apr 2016 21:00",
+        "event": "Uranus in conjunction with sun"
+    },
+    {
+        "date": "10 Apr 2016 22:05",
+        "event": "Aldebaran 0.4\u00b0S of moon"
+    },
+    {
+        "date": "14 Apr 2016 03:59",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "17 Apr 2016 00:46",
+        "event": "Regulus 2.5\u00b0N of moon"
+    },
+    {
+        "date": "18 Apr 2016 04:42",
+        "event": "Jupiter 2.2\u00b0N of moon"
+    },
+    {
+        "date": "18 Apr 2016 14:00",
+        "event": "Mercury at greatest elongation: 19.9\u00b0E"
+    },
+    {
+        "date": "18 Apr 2016 18:04",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "21 Apr 2016 07:59",
+        "event": "Spica 5.1\u00b0S of moon"
+    },
+    {
+        "date": "21 Apr 2016 16:05",
+        "event": "Moon at apogee: 406352 km"
+    },
+    {
+        "date": "22 Apr 2016 05:24",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "22 Apr 2016 05:00",
+        "event": "Lyrid meteor shower"
+    },
+    {
+        "date": "25 Apr 2016 04:13",
+        "event": "Mars 4.9\u00b0S of moon"
+    },
+    {
+        "date": "25 Apr 2016 19:28",
+        "event": "Saturn 3.3\u00b0S of moon"
+    },
+    {
+        "date": "27 Apr 2016 13:51",
+        "event": "Mars 4.8\u00b0N of Antares"
+    },
+    {
+        "date": "28 Apr 2016 08:14",
+        "event": "Mercury 3.0\u00b0S of Pleiades"
+    },
+    {
+        "date": "30 Apr 2016 03:29",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "03 May 2016 01:27",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "04 May 2016 19:00",
+        "event": "Eta-Aquarid meteor shower"
+    },
+    {
+        "date": "06 May 2016 04:14",
+        "event": "Moon at perigee: 357828 km"
+    },
+    {
+        "date": "06 May 2016 19:30",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "08 May 2016 08:21",
+        "event": "Aldebaran 0.5\u00b0S of moon"
+    },
+    {
+        "date": "09 May 2016 15:00",
+        "event": "Mercury at inferior conjunction"
+    },
+    {
+        "date": "09 May 2016 15:00",
+        "event": "Transit of Mercury across sun"
+    },
+    {
+        "date": "13 May 2016 17:02",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "14 May 2016 07:06",
+        "event": "Regulus 2.3\u00b0N of moon"
+    },
+    {
+        "date": "15 May 2016 09:30",
+        "event": "Jupiter 2.0\u00b0N of moon"
+    },
+    {
+        "date": "15 May 2016 20:39",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "18 May 2016 14:07",
+        "event": "Spica 5.1\u00b0S of Moon"
+    },
+    {
+        "date": "18 May 2016 22:06",
+        "event": "Moon at apogee: 405934 km"
+    },
+    {
+        "date": "21 May 2016 21:15",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "22 May 2016 11:00",
+        "event": "Mars at opposition"
+    },
+    {
+        "date": "22 May 2016 21:59",
+        "event": "Saturn 3.2\u00b0S of moon"
+    },
+    {
+        "date": "29 May 2016 12:12",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "30 May 2016 04:45",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "03 Jun 2016 06:00",
+        "event": "Saturn at opposition"
+    },
+    {
+        "date": "03 Jun 2016 09:47",
+        "event": "Mercury 0.7\u00b0N of moon: occultation"
+    },
+    {
+        "date": "03 Jun 2016 10:55",
+        "event": "Moon at perigee: 361142 km"
+    },
+    {
+        "date": "05 Jun 2016 03:00",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "05 Jun 2016 09:00",
+        "event": "Mercury at greatest elongation: 24.2\u00b0W"
+    },
+    {
+        "date": "06 Jun 2016 22:00",
+        "event": "Venus at superior conjunction"
+    },
+    {
+        "date": "10 Jun 2016 14:47",
+        "event": "Regulus 2.0\u00b0N of moon"
+    },
+    {
+        "date": "11 Jun 2016 19:35",
+        "event": "Jupiter 1.5\u00b0N of moon"
+    },
+    {
+        "date": "11 Jun 2016 22:20",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "12 Jun 2016 08:10",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "13 Jun 2016 10:06",
+        "event": "Mercury 6.4\u00b0S of Pleiades"
+    },
+    {
+        "date": "14 Jun 2016 20:47",
+        "event": "Spica 5.3\u00b0S of moon"
+    },
+    {
+        "date": "15 Jun 2016 12:00",
+        "event": "Moon at apogee: 405022 km"
+    },
+    {
+        "date": "19 Jun 2016 00:40",
+        "event": "Saturn 3.3\u00b0S of moon"
+    },
+    {
+        "date": "19 Jun 2016 03:39",
+        "event": "Mercury 3.7\u00b0N of Aldebaran"
+    },
+    {
+        "date": "20 Jun 2016 11:02",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "20 Jun 2016 22:35",
+        "event": "Summer solstice"
+    },
+    {
+        "date": "26 Jun 2016 05:28",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "27 Jun 2016 18:19",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "01 Jul 2016 06:45",
+        "event": "Moon at perigee: 365983 km"
+    },
+    {
+        "date": "02 Jul 2016 03:58",
+        "event": "Aldebaran 0.4\u00b0S of moon"
+    },
+    {
+        "date": "02 Jul 2016 16:00",
+        "event": "Mercury at perihelion"
+    },
+    {
+        "date": "04 Jul 2016 11:01",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "04 Jul 2016 16:00",
+        "event": "Earth at aphelion: 1.01675 AU"
+    },
+    {
+        "date": "07 Jul 2016 03:00",
+        "event": "Mercury at superior conjunction"
+    },
+    {
+        "date": "07 Jul 2016 23:33",
+        "event": "Regulus 1.8\u00b0N of moon"
+    },
+    {
+        "date": "09 Jul 2016 01:41",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "09 Jul 2016 10:08",
+        "event": "Jupiter 0.9\u00b0N of moon: occultation"
+    },
+    {
+        "date": "10 Jul 2016 23:00",
+        "event": "Venus at perihelion"
+    },
+    {
+        "date": "12 Jul 2016 00:52",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "12 Jul 2016 04:13",
+        "event": "Spica 5.6\u00b0S of Moon"
+    },
+    {
+        "date": "13 Jul 2016 05:24",
+        "event": "Moon at apogee: 404272 km"
+    },
+    {
+        "date": "16 Jul 2016 05:11",
+        "event": "Saturn 3.4\u00b0S of moon"
+    },
+    {
+        "date": "19 Jul 2016 22:57",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "23 Jul 2016 07:49",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "26 Jul 2016 23:00",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "27 Jul 2016 11:25",
+        "event": "Moon at perigee: 369659 km"
+    },
+    {
+        "date": "27 Jul 2016 21:00",
+        "event": "Delta-Aquarid meteor shower"
+    },
+    {
+        "date": "29 Jul 2016 10:53",
+        "event": "Aldebaran 0.3\u00b0S of moon"
+    },
+    {
+        "date": "30 Jul 2016 15:55",
+        "event": "Mercury 0.3\u00b0N of Regulus"
+    },
+    {
+        "date": "02 Aug 2016 20:45",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "04 Aug 2016 06:19",
+        "event": "Venus 2.9\u00b0N of moon"
+    },
+    {
+        "date": "04 Aug 2016 22:12",
+        "event": "Mercury 0.6\u00b0N of moon: occultation"
+    },
+    {
+        "date": "05 Aug 2016 07:48",
+        "event": "Moon at Ascending Node"
+    },
+    {
+        "date": "05 Aug 2016 11:57",
+        "event": "Venus 1.0\u00b0N of Regulus"
+    },
+    {
+        "date": "06 Aug 2016 03:28",
+        "event": "Jupiter 0.2\u00b0N of moon: occultation"
+    },
+    {
+        "date": "08 Aug 2016 12:08",
+        "event": "Spica 5.8\u00b0S of moon"
+    },
+    {
+        "date": "10 Aug 2016 00:05",
+        "event": "Moon at apogee: 404266 km"
+    },
+    {
+        "date": "10 Aug 2016 18:21",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "12 Aug 2016 12:10",
+        "event": "Saturn 3.7\u00b0S of moon"
+    },
+    {
+        "date": "12 Aug 2016 12:00",
+        "event": "Perseid meteor shower"
+    },
+    {
+        "date": "15 Aug 2016 16:00",
+        "event": "Mercury at aphelion"
+    },
+    {
+        "date": "16 Aug 2016 21:00",
+        "event": "Mercury at greatest elongation: 27.4\u00b0E"
+    },
+    {
+        "date": "18 Aug 2016 09:27",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "19 Aug 2016 14:14",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "20 Aug 2016 06:00",
+        "event": "Mercury 3.8\u00b0 of Jupiter"
+    },
+    {
+        "date": "22 Aug 2016 01:20",
+        "event": "Moon at perigee: 367047 km"
+    },
+    {
+        "date": "24 Aug 2016 05:09",
+        "event": "Mars 1.8\u00b0N of Antares"
+    },
+    {
+        "date": "25 Aug 2016 03:41",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "25 Aug 2016 16:21",
+        "event": "Aldebaran 0.2\u00b0S of moon"
+    },
+    {
+        "date": "28 Aug 2016 20:00",
+        "event": "Mercury 5.0\u00b0 of Venus"
+    },
+    {
+        "date": "01 Sep 2016 09:03",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "01 Sep 2016 09:07",
+        "event": "Annular solar eclipse; mag=0.974"
+    },
+    {
+        "date": "01 Sep 2016 15:27",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "02 Sep 2016 15:00",
+        "event": "Neptune at opposition"
+    },
+    {
+        "date": "03 Sep 2016 10:33",
+        "event": "Venus 1.1\u00b0S of moon: occultation"
+    },
+    {
+        "date": "04 Sep 2016 19:56",
+        "event": "Spica 5.8\u00b0S of moon"
+    },
+    {
+        "date": "04 Sep 2016 20:05",
+        "event": "Saturn 5.9\u00b0N of Antares"
+    },
+    {
+        "date": "06 Sep 2016 18:44",
+        "event": "Moon at apogee: 405059 km"
+    },
+    {
+        "date": "08 Sep 2016 21:23",
+        "event": "Saturn 3.8\u00b0S of moon"
+    },
+    {
+        "date": "09 Sep 2016 11:49",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "13 Sep 2016 00:00",
+        "event": "Mercury at inferior conjunction"
+    },
+    {
+        "date": "15 Sep 2016 23:55",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "16 Sep 2016 18:54",
+        "event": "Penumbral lunar eclipse; mag=0.908"
+    },
+    {
+        "date": "16 Sep 2016 19:05",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "18 Sep 2016 15:15",
+        "event": "Venus 2.2\u00b0N of Spica"
+    },
+    {
+        "date": "18 Sep 2016 17:00",
+        "event": "Moon at perigee: 361894 km"
+    },
+    {
+        "date": "21 Sep 2016 22:13",
+        "event": "Aldebaran 0.2\u00b0S of moon"
+    },
+    {
+        "date": "22 Sep 2016 14:21",
+        "event": "Autumnal equinox"
+    },
+    {
+        "date": "23 Sep 2016 09:56",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "26 Sep 2016 06:00",
+        "event": "Jupiter in conjunction with sun"
+    },
+    {
+        "date": "27 Sep 2016 22:32",
+        "event": "Regulus 1.7\u00b0N of moon"
+    },
+    {
+        "date": "28 Sep 2016 15:00",
+        "event": "Mercury at perihelion"
+    },
+    {
+        "date": "28 Sep 2016 19:00",
+        "event": "Mercury at greatest elongation: 17.9\u00b0W"
+    },
+    {
+        "date": "28 Sep 2016 22:06",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "29 Sep 2016 10:42",
+        "event": "Mercury 0.7\u00b0N of moon: occultation"
+    },
+    {
+        "date": "01 Oct 2016 00:12",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "03 Oct 2016 17:30",
+        "event": "Venus 5.0\u00b0S of moon"
+    },
+    {
+        "date": "04 Oct 2016 11:02",
+        "event": "Moon at apogee: 406100 km"
+    },
+    {
+        "date": "06 Oct 2016 08:04",
+        "event": "Saturn 3.8\u00b0S of moon"
+    },
+    {
+        "date": "09 Oct 2016 04:33",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "13 Oct 2016 09:43",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "15 Oct 2016 10:00",
+        "event": "Uranus at opposition"
+    },
+    {
+        "date": "16 Oct 2016 04:23",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "16 Oct 2016 23:36",
+        "event": "Moon at perigee: 357860 km"
+    },
+    {
+        "date": "19 Oct 2016 06:18",
+        "event": "Aldebaran 0.3\u00b0S of moon"
+    },
+    {
+        "date": "21 Oct 2016 05:00",
+        "event": "Orionid meteor shower"
+    },
+    {
+        "date": "22 Oct 2016 19:14",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "25 Oct 2016 04:01",
+        "event": "Regulus 1.6\u00b0N of moon"
+    },
+    {
+        "date": "26 Oct 2016 01:44",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "26 Oct 2016 10:56",
+        "event": "Venus 3.0\u00b0N of Antares"
+    },
+    {
+        "date": "27 Oct 2016 16:00",
+        "event": "Mercury at superior conjunction"
+    },
+    {
+        "date": "28 Oct 2016 09:33",
+        "event": "Jupiter 1.4\u00b0S of moon"
+    },
+    {
+        "date": "29 Oct 2016 12:00",
+        "event": "Mars at perihelion"
+    },
+    {
+        "date": "30 Oct 2016 17:38",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "31 Oct 2016 19:29",
+        "event": "Moon at apogee: 406660 km"
+    },
+    {
+        "date": "02 Nov 2016 19:38",
+        "event": "Saturn 3.7\u00b0S of moon"
+    },
+    {
+        "date": "05 Nov 2016 05:00",
+        "event": "S Taurid meteor shower"
+    },
+    {
+        "date": "06 Nov 2016 12:07",
+        "event": "Mars 5.3\u00b0S of moon"
+    },
+    {
+        "date": "07 Nov 2016 19:51",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "09 Nov 2016 15:57",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "12 Nov 2016 04:00",
+        "event": "N Taurid meteor shower"
+    },
+    {
+        "date": "14 Nov 2016 11:23",
+        "event": "Moon at perigee: 356512 km"
+    },
+    {
+        "date": "14 Nov 2016 13:52",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "15 Nov 2016 16:50",
+        "event": "Aldebaran 0.4\u00b0S of moon"
+    },
+    {
+        "date": "17 Nov 2016 11:00",
+        "event": "Leonid meteor shower"
+    },
+    {
+        "date": "19 Nov 2016 17:51",
+        "event": "Beehive 4.3\u00b0N of moon"
+    },
+    {
+        "date": "21 Nov 2016 08:33",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "21 Nov 2016 10:08",
+        "event": "Regulus 1.3\u00b0N of moon"
+    },
+    {
+        "date": "22 Nov 2016 02:48",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "23 Nov 2016 19:00",
+        "event": "Mercury 3.4\u00b0 of Saturn"
+    },
+    {
+        "date": "25 Nov 2016 01:47",
+        "event": "Jupiter 1.9\u00b0S of moon"
+    },
+    {
+        "date": "27 Nov 2016 20:08",
+        "event": "Moon at apogee: 406556 km"
+    },
+    {
+        "date": "29 Nov 2016 12:18",
+        "event": "NEW MOON"
+    },
+    {
+        "date": "03 Dec 2016 12:34",
+        "event": "Venus 5.8\u00b0S of moon"
+    },
+    {
+        "date": "05 Dec 2016 10:39",
+        "event": "Mars 2.9\u00b0S of moon"
+    },
+    {
+        "date": "06 Dec 2016 17:35",
+        "event": "Moon at descending node"
+    },
+    {
+        "date": "07 Dec 2016 09:03",
+        "event": "FIRST QUARTER MOON"
+    },
+    {
+        "date": "10 Dec 2016 11:00",
+        "event": "Saturn in conjunction with sun"
+    },
+    {
+        "date": "11 Dec 2016 04:00",
+        "event": "Mercury at greatest elongation: 20.8\u00b0E"
+    },
+    {
+        "date": "12 Dec 2016 23:27",
+        "event": "Moon at perigee: 358463 km"
+    },
+    {
+        "date": "13 Dec 2016 04:14",
+        "event": "Aldebaran 0.5\u00b0S of Moon"
+    },
+    {
+        "date": "14 Dec 2016 00:00",
+        "event": "Geminid meteor shower"
+    },
+    {
+        "date": "14 Dec 2016 00:06",
+        "event": "FULL MOON"
+    },
+    {
+        "date": "17 Dec 2016 03:17",
+        "event": "Beehive 4.1\u00b0N of moon"
+    },
+    {
+        "date": "18 Dec 2016 18:13",
+        "event": "Regulus 1.0\u00b0N of moon"
+    },
+    {
+        "date": "19 Dec 2016 04:46",
+        "event": "Moon at ascending node"
+    },
+    {
+        "date": "21 Dec 2016 01:56",
+        "event": "LAST QUARTER MOON"
+    },
+    {
+        "date": "21 Dec 2016 10:45",
+        "event": "Winter solstice"
+    },
+    {
+        "date": "22 Dec 2016 08:00",
+        "event": "Ursid meteor shower"
+    },
+    {
+        "date": "22 Dec 2016 16:37",
+        "event": "Jupiter 2.4\u00b0S of moon"
+    },
+    {
+        "date": "25 Dec 2016 05:55",
+        "event": "Moon at apogee: 405870 km"
+    },
+    {
+        "date": "25 Dec 2016 15:00",
+        "event": "Mercury at perihelion"
+    },
+    {
+        "date": "28 Dec 2016 19:00",
+        "event": "Mercury at inferior conjunction"
+    },
+    {
+        "date": "29 Dec 2016 06:53",
+        "event": "NEW MOON"
+    }
+]
