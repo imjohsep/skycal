@@ -45,6 +45,6 @@ var EventList = React.createClass({
 });
 
 ReactDOM.render(
-  <SkyBox url="/api/calendar" pollInterval={2000}/>,
+  <SkyBox url="/api/calendar/upcoming" pollInterval={2000}/>,
   document.getElementById('content')
 );
