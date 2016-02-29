@@ -22,5 +22,4 @@ class Event:
             eventDate = datetime.datetime.strptime(self.events[i]['date'],
                                                    "%d %b %Y %H:%M").date()
             i += 1
-
         return self.events[i-1:i+3]
