@@ -17,7 +17,6 @@ var SkyBox = React.createClass({
   },
   componentDidMount: function() {
       this.loadCalendarFromServer();
-      setInterval(this.loadCalendarFromServer, this.props.pollInterval);
    },
   render: function() {
       return (
@@ -45,6 +44,6 @@ var EventList = React.createClass({
 });
 
 ReactDOM.render(
-  <SkyBox url="/api/calendar/upcoming" pollInterval={2000}/>,
+  <SkyBox url="/api/calendar/upcoming"/>,
   document.getElementById('content')
 );

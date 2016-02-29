@@ -14,12 +14,13 @@ class Event:
     def allEvents(self):
         return self.events
 
-    def upcomingEvents(self, dt=datetime.datetime.now()):
+    def upcomingEvents(self):
         now = datetime.datetime.now().date()
-        eventDate = datetime.date(1900, now.month, now.day)
+        eventDate = datetime.date(1900, 1, 1)
         i = 0
         while eventDate < now:
             eventDate = datetime.datetime.strptime(self.events[i]['date'],
                                                    "%d %b %Y %H:%M").date()
             i += 1
+
         return self.events[i-1:i+3]
