@@ -1,0 +1,26 @@
+{
+  "name": "skycal",
+  "version": "0.0.1",
+  "description": "Calendar of astronomical events for astronomers.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imjohsep/skycal"
+  },
+  "keywords": [],
+  "author": "imjohsep",
+  "bugs": {},
+  "homepage": "",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
