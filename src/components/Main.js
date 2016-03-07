@@ -1,3 +1,4 @@
+require('styles/all.sass');
 var SkyBox = React.createClass({
   loadCalendarFromServer: function() {
     $.ajax({
@@ -43,7 +44,8 @@ var EventList = React.createClass({
   }
 });
 
-ReactDOM.render(
-  <SkyBox url="/api/calendar/upcoming"/>,
-  document.getElementById('content')
-);
+
+AppComponent.defaultProps = {
+};
+
+export default AppComponent;
