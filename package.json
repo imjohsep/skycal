@@ -4,13 +4,23 @@
   "description": "Calendar of astronomical events for astronomers.",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.4.3",
-    "express": "^4.4.5"
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.6.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "file-loader": "^0.8.5",
+    "json-loader": "^0.5.4",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js --env=dev"
   },
   "repository": {
     "type": "git",
@@ -20,7 +30,7 @@
   "author": "imjohsep",
   "bugs": {},
   "homepage": "",
-  "engines" : {
-    "node" : "0.12.x"
+  "engines": {
+    "node": "0.12.x"
   }
 }
