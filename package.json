@@ -4,6 +4,7 @@
   "description": "Calendar of astronomical events for astronomers.",
   "main": "server.js",
   "dependencies": {
+    "proxy-middleware": "^0.15.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
   },
@@ -15,6 +16,7 @@
     "express": "^4.4.5",
     "file-loader": "^0.8.5",
     "json-loader": "^0.5.4",
+    "open": "0.0.5",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
   },
