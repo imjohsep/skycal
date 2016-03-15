@@ -1,0 +1,7 @@
+ul {
+  list-style: none
+}
+
+:global(#root) {
+  height: 100%;
+}
