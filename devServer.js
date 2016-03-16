@@ -30,15 +30,6 @@ app.get('/api/events/upcoming', function(req, res) {
   });
 })
 
-app.get('/api/calendar/all', function(req, res) {
-  var obj
-  fs.readFile('./2016.json', 'utf8', function (err, data) {
-      if (err) throw err
-      obj = JSON.parse(data)
-      res.json(obj)
-  })
-})
-
 /* Webpack Middleware */
 var compiler = webpack(config)
 
