@@ -1,6 +1,5 @@
 ## Installation
 
-**Mongodb**
 Open up a new terminal tab and run `mongod`
 
 **Starting Server**
