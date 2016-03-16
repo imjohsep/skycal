@@ -1,9 +1,15 @@
-## Usage
+## Installation
 
-**Install**
+**Mongodb**
+Open up a new terminal tab and run `mongod`
+
+**Starting Server**
 ```
 npm install
+mongoimport --db skycal --collection events --type json --file ./models/seed.json
 ```
+
+## Usage
 
 **Start the application in dev mode with hot-module-replacement**
 ```
