@@ -14,7 +14,7 @@ export default class Home extends Component {
     return (
       <div>
           <Calendar/>
-          <EventList url='api/calendar/upcoming'/>
+          <EventList url='/api/events/upcoming'/>
       </div>
     )
   }

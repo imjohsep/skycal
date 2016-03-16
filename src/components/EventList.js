@@ -30,8 +30,8 @@ export default class EventList extends Component {
   render() {
     var eventNodes = this.state.events.map(function(event) {
       return (
-        <Event key={event.id} date={event.date} description={event.description}>
-          {event.date} {event.description}
+        <Event key={event.id} date={event.occurrence_at} description={event.description}>
+          {event.occurrence_at} {event.description}
         </Event>
       )
     })
