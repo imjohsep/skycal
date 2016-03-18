@@ -9,24 +9,26 @@ var Event = require('./models/event')
 
 /* Mongo */
 mongoose.connect(dbConfig.database)
-mongoose.connection.on('error', function() {
+mongoose.connection.on('error', function () {
   console.info('Error: Could not connect to MongoDB. Did you forget to run `mongod`?')
 })
 
 var app = express()
 
 /* Routes */
-app.get('/api/events', function(req, res) {
-  Event.find({}, function(err, events) {
+app.get('/api/events', function (req, res) {
+  Event.find({}, function (err, events) {
+    if (err) res.send([])
     res.send(events)
   })
 })
 
-app.get('/api/events/upcoming', function(req, res) {
-  var now = new Date();
-  Event.find({occurrence_at: {$gte: now}}).limit(4).exec(function(err, events) {
+app.get('/api/events/upcoming', function (req, res) {
+  var now = new Date()
+  Event.find({occurrence_at: {$gte: now}}).limit(4).exec(function (err, events) {
+    if (err) res.send([])
     res.send(events)
-  });
+  })
 })
 
 /* Webpack Middleware */

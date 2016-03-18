@@ -2,7 +2,6 @@ import React from 'react'
 import {Route} from 'react-router'
 import App from './components/App'
 import Home from './components/Home'
-import Calendar from './components/Calendar'
 import NotFound from './components/NotFound'
 
 const routes = (
