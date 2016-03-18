@@ -32,7 +32,7 @@ npm run build:start
 
 **Run code style check with standard**
 ```
-npm run check-style
+npm run lint
 ```
 
 **Generate code coverage report**
