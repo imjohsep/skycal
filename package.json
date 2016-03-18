@@ -1,7 +1,7 @@
 {
   "name": "skycal",
   "version": "0.0.1",
-  "description": "",
+  "description": "Calendar app of astronomical events.",
   "private": true,
   "author": "Joseph Watters",
   "license": "MIT",
