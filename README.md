@@ -2,6 +2,14 @@
 
 Open up a new terminal tab and run `mongod`
 
+**Installing Mongo
+```
+brew update
+brew install mongodb
+sudo mkdir -p /data/db
+sudo chown -R $USER /data/db
+```
+
 **Starting Server**
 ```
 npm install
