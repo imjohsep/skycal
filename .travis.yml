@@ -1,6 +1,8 @@
 language: node_js
 node_js:
   - "5.1"
+script: 
+  - npm run build
 deploy:
   provider: heroku
   api_key: "b94f507f-eb6a-4e01-9df9-43d3264a5c82"
