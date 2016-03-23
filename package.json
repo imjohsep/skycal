@@ -49,7 +49,7 @@
       }
     },
     "test": {
-      "command": "babel-node test/index.js | tap-spec",
+      "command": "babel-node ./test/index.js",
       "env": {
         "NODE_ENV": "test"
       }
