@@ -1,3 +1,3 @@
 module.exports = {
-  database: 'mongodb://localhost/skycal'
+  database: process.env.MONGOLAB_URI || 'mongodb://localhost/skycal'
 }
