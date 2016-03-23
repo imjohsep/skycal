@@ -11,6 +11,8 @@ mongoose.connection.on('error', function () {
 })
 
 var app = express()
+var port = process.env.PORT || 8080
+
 app.use(express.static(path.join(__dirname, '/dist')))
 
 /* Routes */
@@ -33,9 +35,9 @@ app.get('*', function (req, res) {
   res.sendFile(path.join(__dirname, 'dist/index.html'))
 })
 
-app.listen($PORT, 'localhost', function (err) {
+app.listen(port, 'localhost', function (err) {
   if (err) {
     console.log(err)
   }
-  console.info('==> 🌎 Listening on port %s. Open up http://localhost:%s/ in your browser.', $PORT, $PORT)
+  console.info('==> 🌎 Listening on port %s. Open up http://localhost:%s/ in your browser.', port, port)
 })
