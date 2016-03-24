@@ -5,7 +5,7 @@ var config = require('./webpack.config.dev')
 var historyApiFallback = require('connect-history-api-fallback')
 var dbConfig = require('./config')
 var mongoose = require('mongoose')
-var Event = require('./models/event')
+
 
 /* Mongo */
 mongoose.connect(dbConfig.database)
@@ -14,22 +14,7 @@ mongoose.connection.on('error', function () {
 })
 
 var app = express()
-
-/* Routes */
-app.get('/api/events', function (req, res) {
-  Event.find({}, function (err, events) {
-    if (err) res.send([])
-    res.send(events)
-  })
-})
-
-app.get('/api/events/upcoming', function (req, res) {
-  var now = new Date()
-  Event.find({occurrence_at: {$gte: now}}).limit(4).exec(function (err, events) {
-    if (err) res.send([])
-    res.send(events)
-  })
-})
+require('./router')(app);
 
 /* Webpack Middleware */
 var compiler = webpack(config)
