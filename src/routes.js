@@ -8,7 +8,7 @@ const routes = (
   <Route component={App}>
     <Route path='/' component={Home} />
     // Put other routes here
-    <Route path='*' component={NotFound} />
+    <Route path='/*' component={NotFound} />
   </Route>
 )
 
