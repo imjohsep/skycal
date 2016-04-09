@@ -13,7 +13,7 @@ sudo chown -R $USER /data/db
 **Starting Server**
 ```
 npm install
-mongoimport --db skycal --collection events --type json --file ./models/seed.json
+mongoimport --db skycal --collection events --type json --file ./models/seed/04-09-2016.json
 ```
 
 ## Usage
