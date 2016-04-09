@@ -6,7 +6,6 @@ var historyApiFallback = require('connect-history-api-fallback')
 var dbConfig = require('./config')
 var mongoose = require('mongoose')
 
-
 /* Mongo */
 mongoose.connect(dbConfig.database)
 mongoose.connection.on('error', function () {
@@ -14,7 +13,7 @@ mongoose.connection.on('error', function () {
 })
 
 var app = express()
-require('./router')(app);
+require('./router')(app)
 
 /* Webpack Middleware */
 var compiler = webpack(config)

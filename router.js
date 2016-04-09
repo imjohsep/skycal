@@ -1,6 +1,6 @@
 var Event = require('./models/event')
 /* Routes */
-module.exports = function(app) {
+module.exports = function (app) {
   app.get('/api/events', function (req, res) {
     Event.find({}, function (err, events) {
       if (err) res.send([])

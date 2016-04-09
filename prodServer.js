@@ -11,7 +11,7 @@ mongoose.connection.on('error', function () {
 
 var app = express()
 var port = process.env.PORT || 8000
-require('./router')(app);
+require('./router')(app)
 
 app.use(express.static(path.join(__dirname, '/dist')))
 
