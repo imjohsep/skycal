@@ -42,28 +42,16 @@
         "NODE_ENV": "development"
       }
     },
-    "build:start": {
-      "command": "node prodServer",
-      "env": {
-        "NODE_ENV": "production"
-      }
-    },
     "build": {
       "command": "webpack --config webpack.config.prod.js --progress --profile --colors",
       "env": {
         "NODE_ENV": "production"
       }
     },
-    "test": {
-      "command": "babel-node ./test/index.js",
+    "build:start": {
+      "command": "node prodServer",
       "env": {
-        "NODE_ENV": "test"
-      }
-    },
-    "test:cov": {
-      "command": "babel-node ./node_modules/.bin/isparta cover test/index.js",
-      "env": {
-        "NODE_ENV": "test"
+        "NODE_ENV": "production"
       }
     }
   },
@@ -111,12 +99,9 @@
     "react-transform-hmr": "^1.0.2",
     "redbox-react": "^1.2.2",
     "sass-loader": "^3.2.0",
-    "sinon": "^1.17.3",
     "standard": "^6.0.7",
     "stats-webpack-plugin": "^0.3.0",
     "style-loader": "^0.13.0",
-    "tap-spec": "^4.1.1",
-    "tape": "^4.4.0",
     "webpack": "^1.12.13",
     "webpack-dev-middleware": "^1.5.1",
     "webpack-hot-middleware": "^2.7.1"
