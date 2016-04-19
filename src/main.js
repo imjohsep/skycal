@@ -1,6 +1,7 @@
 import 'babel-polyfill'
 import 'normalize.css'
-import './styles/globals.css'
+import './styles/variables.sass'
+import './styles/common.sass'
 import React from 'react'
 import ReactDOM from 'react-dom'
 import {Router, browserHistory as history} from 'react-router'
