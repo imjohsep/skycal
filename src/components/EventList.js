@@ -1,5 +1,5 @@
 import React, {PropTypes, Component} from 'react'
-// import style from '../styles/EventList.css'
+
 import Event from './Event.js'
 import $ from 'jquery'
 

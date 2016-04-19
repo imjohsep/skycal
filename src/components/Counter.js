@@ -1,5 +1,4 @@
 import React, {PropTypes, Component} from 'react'
-import style from '../styles/Counter.css'
 
 export default class Counter extends Component {
   increment (text, e) {
