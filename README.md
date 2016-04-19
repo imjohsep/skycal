@@ -10,9 +10,8 @@ sudo mkdir -p /data/db
 sudo chown -R $USER /data/db
 ```
 
-**Starting Server**
+**Import Data**
 ```
-npm install
 mongoimport --db skycal --collection events --type json --file ./models/seed/04-09-2016.json
 ```
 
