@@ -2,7 +2,7 @@
 
 Open up a new terminal tab and run `mongod`
 
-**Installing Mongo
+**Installing Mongo**
 ```
 brew update
 brew install mongodb
