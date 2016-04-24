@@ -1,14 +1,44 @@
 @import variables
 body, html
-	height: 100%
-	width: 100%
-	color: $text-color
-	margin: 0
-	padding: 0
+    height: 100%
+    width: 100%
+    color: $text-color
+    margin: 0
+    padding: 0
+
+hr
+    height: 1px
+    border: 0
+    border-top: 1px solid $text-color
+    margin: 1em 0
+    padding: 0 
+
+@font-face
+    font-family: "Moonhouse"
+    src: url("fonts/moonhouse.ttf") format("truetype")
 
 .main-container
-	width: 100%
-	height: 100%
-	background-image: -webkit-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
-	background-image: -o-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
-	background-image: linear-gradient(to right, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
+    width: 100%
+    height: 100%
+    display: flex
+    justify-content: center
+    background-image: -webkit-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
+    background-image: -o-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
+    background-image: linear-gradient(to right, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
+
+.title
+    font-family: Moonhouse
+    text-align: center
+    font-size: 100px
+
+.box-container
+    background-color: rgba(250, 250, 250, .5)
+    padding: 20px
+
+.container-column
+
+.event-list
+    display: flex
+    flex-direction: column
+    a
+        text-align: center

@@ -37,8 +37,10 @@ export default class EventList extends Component {
     })
 
     return (
-      <div className='event-node'>
+      <div className='event-list'>
         {eventNodes}
+        <hr />
+        <a href="/calendar">More Events</a>
       </div>
     )
   }
