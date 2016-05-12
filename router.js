@@ -12,7 +12,7 @@ module.exports = function (app) {
     var now = new Date()
     var end_range = new Date()
     end_range.setDate(end_range.getDate() + 7)
-    Event.find({occurrence_at: {$gte: now, $lte: end_range}}).sort('occurrence_at').limit(5).exec(function (err, events) {
+    Event.find({occurrence_at: {$gte: now, $lte: end_range}}).sort('occurrence_at').limit(4).exec(function (err, events) {
       if (err) res.send([])
       res.send(events)
     })

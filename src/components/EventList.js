@@ -2,6 +2,7 @@ import React, {PropTypes, Component} from 'react'
 
 import Event from './Event.js'
 import $ from 'jquery'
+import '../styles/event-list.sass'
 
 export default class EventList extends Component {
   constructor () {
