@@ -5,3 +5,5 @@ dist
 coverage
 gh-pages
 .editorconfig
+notes.js
+typings
