@@ -42,10 +42,10 @@ module.exports = {
     {
       test: /\.sass/,
       loader: 'style-loader!css-loader!postcss-loader!sass-loader?outputStyle=expanded&indentedSyntax'
-    },
-    {
-      test: /\.(ttf|eot|svg|woff(2)?)(\?[a-z0-9]+)?$/,
-      loader: 'file-loader'
+    }, { 
+      test: /\.svg$/, 
+      loader: 'file',
+      include: 'src/img'
     }],
   },
   _hotPort: 8000,

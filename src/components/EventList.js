@@ -2,6 +2,7 @@ import React, {PropTypes, Component} from 'react'
 
 import Event from './Event.js'
 import $ from 'jquery'
+import '../styles/event-list.sass'
 
 export default class EventList extends Component {
   constructor () {
@@ -37,10 +38,10 @@ export default class EventList extends Component {
     })
 
     return (
-      <div className='event-list'>
+      <div className='eventListComponent'>
         {eventNodes}
         <hr />
-        <a href="/calendar">More Events</a>
+        <a href="/calendar" className='eventListComponent-link'>More Events</a>
       </div>
     )
   }
