@@ -3,6 +3,7 @@ import React, {PropTypes, Component} from 'react'
 import Event from './Event.js'
 import $ from 'jquery'
 import '../styles/event-list.sass'
+import NavLink from './NavLink'
 
 export default class EventList extends Component {
   constructor () {
@@ -41,7 +42,7 @@ export default class EventList extends Component {
       <div className='eventListComponent'>
         {eventNodes}
         <hr />
-        <a href="/calendar" className='eventListComponent-link'>More Events</a>
+        <NavLink to="/calendar" className="eventListComponent-link">More Events</NavLink>
       </div>
     )
   }
