@@ -8,9 +8,9 @@ const Calendar = React.createClass({
     calc (year, month) {
         if (this.state.selectedElement) {
             if (this.state.selectedMonth != month || this.state.selectedYear != year) {
-                this.state.selectedElement.classList.remove('r-selected')
+                this.state.selectedElement.classList.remove('calendarComponent-selected')
             } else {
-                this.state.selectedElement.classList.add('r-selected')
+                this.state.selectedElement.classList.add('calendarComponent-selected')
             }
         }
         return {
@@ -73,9 +73,9 @@ const Calendar = React.createClass({
     },
     selectDate (year, month, date, element) {
         if (this.state.selectedElement) {
-            this.state.selectedElement.classList.remove('r-selected')
+            this.state.selectedElement.classList.remove('calendarComponent-selected')
         }
-        element.target.classList.add('r-selected')
+        element.target.classList.add('calendarComponent-selected')
         this.setState({
             selectedYear: year,
             selectedMonth: month,
@@ -87,10 +87,10 @@ const Calendar = React.createClass({
     render () {
         return React.createElement(
             'div',
-            { className: 'r-calendar' },
+            { className: 'calendarComponent' },
             React.createElement(
                 'div',
-                { className: 'r-inner' },
+                { className: 'calendarComponent-inner' },
                 React.createElement(Header, { monthNames: this.state.monthNamesFull, month: this.state.month, year: this.state.year, onPrev: this.getPrev, onNext: this.getNext }),
                 React.createElement(WeekDays, { dayNames: this.state.dayNames, startDay: this.state.startDay, weekNumbers: this.state.weekNumbers }),
                 React.createElement(MonthDates, { month: this.state.month, year: this.state.year, daysInMonth: this.state.daysInMonth, firstOfMonth: this.state.firstOfMonth, startDay: this.state.startDay, onSelect: this.selectDate, weekNumbers: this.state.weekNumbers, disablePast: this.state.disablePast, minDate: this.state.minDate })

@@ -7,12 +7,12 @@ const WeekDays = React.createClass({
             haystack = Array.apply(null, { length: 7 }).map(Number.call, Number)
         return React.createElement(
             'div',
-            { className: 'r-row r-weekdays' },
+            { className: 'calendarComponent-row calendarComponent-weekdays' },
             (() => {
                 if (that.props.weekNumbers) {
                     return React.createElement(
                         'div',
-                        { className: 'r-cell r-weeknum' },
+                        { className: 'calendarComponent-cell calendarComponent-weeknum' },
                         'wn'
                     )
                 }
@@ -20,7 +20,7 @@ const WeekDays = React.createClass({
             haystack.map(function (item, i) {
                 return React.createElement(
                     'div',
-                    { className: 'r-cell',
+                    { className: 'calendarComponent-cell',
                       key: item+i
                     },
                     that.props.dayNames[(that.props.startDay + i) % 7],

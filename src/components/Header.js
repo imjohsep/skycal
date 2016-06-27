@@ -6,16 +6,16 @@ const Header = React.createClass({
     render () {
         return React.createElement(
             'div',
-            { className: 'r-row r-head' },
-            React.createElement('div', { className: 'r-cell r-prev', onClick: this.props.onPrev.bind(null, this), role: 'button', tabIndex: '0' }),
+            { className: 'calendarComponent-row calendarComponent-head' },
+            React.createElement('div', { className: 'calendarComponent-cell calendarComponent-prev', onClick: this.props.onPrev.bind(null, this), role: 'button', tabIndex: '0' }),
             React.createElement(
                 'div',
-                { className: 'r-cell r-title' },
+                { className: 'calendarComponent-cell calendarComponent-title' },
                 this.props.monthNames[this.props.month],
                 ' ',
                 this.props.year
             ),
-            React.createElement('div', { className: 'r-cell r-next', onClick: this.props.onNext.bind(null, this), role: 'button', tabIndex: '0' })
+            React.createElement('div', { className: 'calendarComponent-cell calendarComponent-next', onClick: this.props.onNext.bind(null, this), role: 'button', tabIndex: '0' })
         )
     }
 })

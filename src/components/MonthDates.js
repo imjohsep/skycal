@@ -27,7 +27,7 @@ const MonthDates = React.createClass({
             rows = 6
         }
 
-        className = rows === 6 ? 'r-dates' : 'r-dates r-fix'
+        className = rows === 6 ? 'calendarComponent-dates' : 'calendarComponent-dates calendarComponent-fix'
         haystack = Array.apply(null, { length: rows }).map(Number.call, Number)
         day = this.props.startDay + 1 - first
         while (day > 1) {
@@ -41,7 +41,7 @@ const MonthDates = React.createClass({
                 d = day + i * 7
                 return React.createElement(
                     'div',
-                    { className: 'r-row',
+                    { className: 'calendarComponent-row',
                       key: item+i
                     },
                     (() => {
@@ -49,7 +49,7 @@ const MonthDates = React.createClass({
                             var wn = Math.ceil(((new Date(that.props.year, that.props.month, d) - janOne) / 86400000 + janOne.getDay() + 1) / 7)
                             return React.createElement(
                                 'div',
-                                { className: 'r-cell r-weeknum' },
+                                { className: 'calendarComponent-cell calendarComponent-weeknum' },
                                 wn
                             )
                         }
@@ -60,19 +60,19 @@ const MonthDates = React.createClass({
 
                         if (isDate) {
                             current = new Date(that.props.year, that.props.month, d)
-                            className = current != that.constructor.today ? 'r-cell r-date' : 'r-cell r-date r-today'
+                            className = current != that.constructor.today ? 'calendarComponent-cell calendarComponent-date' : 'calendarComponent-cell calendarComponent-date calendarComponent-today'
                             if (that.props.disablePast && current < that.constructor.today) {
-                                className += ' r-past'
+                                className += ' calendarComponent-past'
                             } else if (that.props.minDate !== null && current < that.props.minDate) {
-                                className += ' r-past'
+                                className += ' calendarComponent-past'
                             }
 
-                            if (/r-past/.test(className)) {
+                            if (/calendarComponent-past/.test(className)) {
                                 return React.createElement(
                                     'div',
                                     { className: className,
-                                      key: item+i, 
-                                      role: 'button', 
+                                      key: item+i,
+                                      role: 'button',
                                       tabIndex: '0' },
                                     d
                                 )
@@ -81,18 +81,18 @@ const MonthDates = React.createClass({
                             return React.createElement(
                                 'div',
                                 { className: className,
-                                  key: item+i, 
-                                  role: 'button', 
-                                  tabIndex: '0', 
-                                  onClick: that.props.onSelect.bind(null, that.props.year, that.props.month, d) 
+                                  key: item+i,
+                                  role: 'button',
+                                  tabIndex: '0',
+                                  onClick: that.props.onSelect.bind(null, that.props.year, that.props.month, d)
                                 },
                                 d
                             )
                         }
 
-                        return React.createElement('div', { 
-                            className: 'r-cell',
-                            key: item+i 
+                        return React.createElement('div', {
+                            className: 'calendarComponent-cell',
+                            key: item+i
                         })
                     })
                 )
