@@ -21,9 +21,10 @@
 		justify-content: center
 		word-wrap: break-word
 		overflow-wrap: break-word
-		width: 55px
-		height: 60px
-		padding: 8px
+		width: 50px
+		height: 55px
+		margin: 10px
+		border: solid 2px $main-container-background
 
 	.calendarComponent-head
 		flex-grow: 1
@@ -44,7 +45,7 @@
 			border-top: 0.2em solid #222222
 			transform: rotate(-45deg)
 		&:hover
-			background-color: #0066CC
+			background-color: $action-color
 
 	.calendarComponent-prev:before
 		border-left: 0.2em solid #222222
@@ -92,18 +93,15 @@
 			border-radius: 50%
 
 		&.calendarComponent-date:not(.calendarComponent-past):hover
-			background-color: #0066CC
+			background-color: $action-color
+			border: solid 2px $action-color
 			color: #ffffff
 
 		&.calendarComponent-date.calendarComponent-selected
-			background-color: #000000
-			border: solid 1px #000000
-			color: #fff
+			border: solid 2px $action-color
 
 		&.calendarComponent-date.calendarComponent-past
-			color: #999999
 			cursor: not-allowed
 
 	.calendarComponent-weeknum
-		color: #999999
 		font-size: 0.8em
