@@ -1,6 +1,9 @@
 var _ = require('lodash')
 var Event = require('./models/event')
 
+/* Utils */
+
+// Group events by year-month-day key
 function groupEvents(events) {
   var grouping = {}
 
@@ -18,7 +21,10 @@ function groupEvents(events) {
 }
 
 /* Routes */
+
+
 module.exports = function (app) {
+  // Events
   app.get('/api/events', function (req, res) {
     Event.find({}, function (err, events) {
       if (err) res.send([])
@@ -26,6 +32,7 @@ module.exports = function (app) {
     })
   })
 
+  // Upcoming Events
   app.get('/api/events/upcoming', function (req, res) {
     var now = new Date()
     var end_range = new Date()
@@ -36,6 +43,7 @@ module.exports = function (app) {
     })
   })
 
+  // Grouped Events
   app.get('/api/events/grouped', function (req, res) {
     Event.aggregate({
       $group: {

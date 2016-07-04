@@ -3,6 +3,7 @@ import {Route} from 'react-router'
 import App from './components/App'
 import Home from './components/Home'
 import Calendar from './components/Calendar'
+import Day from './components/Day'
 import NotFound from './components/NotFound'
 
 const routes = (
@@ -11,7 +12,8 @@ const routes = (
     <Route path='/' component={Home} />
     
     // Other routes
-    <Route path='/calendar' component={Calendar} />
+    <Route path='calendar' component={Calendar} />
+    <Route path='events/:dayId' component={Day} />
 
     // Not Found
     <Route path='/*' component={NotFound} />
