@@ -1,14 +1,22 @@
 @import variables
 @import calendar
+@import media
+
+#root
+    @include media(handhelds)
+        width: 100%
 
 body, html
     height: 100%
     width: 100%
-    color: $text-color
     margin: 0
     padding: 0
     font-family: 'Lato', sans-serif, sans-serif;
     font-weight: 300
+    @include media(except-handhelds)
+        color: $text-color
+    @include media(handhelds)
+        color: $text-color-mobile
 
 hr
     height: 1px
@@ -22,26 +30,34 @@ h1
     font-weight: 400
 
 a
-    color: $text-color
     text-decoration: none
-    &:hover
-        opacity: .7
+    @include media(except-handhelds)
+        color: $text-color
+        &:hover
+            opacity: .7
+    @include media(handhelds)
+        color: $text-color-mobile
+        &:hover
+            text-decoration: underline
 
 .main-container
     width: 100%
     height: 100%
     display: flex
-    padding: 80px 0
     justify-content: center
-    align-items: center
-    background-image: -webkit-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
-    background-image: -o-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
-    background-image: linear-gradient(to right, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
+
+    @include media(handhelds)
+        background-color: $main-container-background-mobile
+
+    @include media(except-handhelds)
+        align-items: center
+        padding: 80px 0
+        background-image: -webkit-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
+        background-image: -o-linear-gradient(left, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
+        background-image: linear-gradient(to right, rgba(5,10,54,1) 0%, rgba(35,117,172,1) 100%)
 
 .main-view
-    background-color: $main-container-background
-    border-radius: 6px
-    padding: 20px
-
-.white
-    background-color: white
+    @include media(except-handhelds)
+        background-color: $main-container-background
+        border-radius: 6px
+        padding: 20px

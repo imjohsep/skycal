@@ -41,7 +41,7 @@ export default class EventList extends Component {
     return (
       <div className='eventListComponent'>
         {eventNodes}
-        <hr />
+        <hr className='desktopOnly' />
         <NavLink to="/calendar" className="eventListComponent-link">More Events</NavLink>
       </div>
     )

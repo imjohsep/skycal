@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import Calendar from './Calendar'
 import EventList from './EventList'
+import '../styles/home.sass'
 
 // Home page - displays upcoming events
 export default class Home extends Component {

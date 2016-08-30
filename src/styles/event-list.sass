@@ -1,12 +1,42 @@
 @import variables
 @import images
+@import media
+@import mixins
 
 .eventList-shortView
-    text-align: center
+	text-align: center
+	@include media(handhelds)
+		background-color: $background-mobile-header
 
 .eventListComponent-link
-    font-size: 24px
+	font-size: 24px
+	@include media(handhelds)
+		padding: 20px 0 20px 0
+		width: 100%
+		display: block
+		background: $main-container-background-mobile
 
 .eventList-shortView .eventItem
-	margin-bottom: 24px
 	text-align: left
+	@include media(except-handhelds)
+		margin-bottom: 24px
+
+	@include media(handhelds)
+		padding: 30px 20px
+		box-shadow: inset 0px -1px 5px 0px rgba(6,11,55,5)
+
+	&:nth-child(1)
+		@include media(handhelds)
+			background-color: #0B1D4B
+
+	&:nth-child(2)
+		@include media(handhelds)
+			background-color: #133869
+
+	&:nth-child(3)
+		@include media(handhelds)
+			background-color: #1D5D92
+
+	&:nth-child(4)
+		@include media(handhelds)
+			background-color: #2375AD
