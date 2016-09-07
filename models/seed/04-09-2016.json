@@ -1,251 +1,251 @@
-{"_id":{"$oid":"56e8757279f649df1fd6b3e8"},"occurrence_at":{"$date":"2016-01-03T11:35:00.000Z"},"description":"Spica 4.7°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3e9"},"occurrence_at":{"$date":"2016-01-04T02:45:00.000Z"},"description":"Mars 1.5°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3ea"},"occurrence_at":{"$date":"2016-01-04T16:00:00.000Z"},"description":"Quadrantid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3eb"},"occurrence_at":{"$date":"2016-01-07T07:57:00.000Z"},"description":"Venus 3.1°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3ec"},"occurrence_at":{"$date":"2016-01-07T12:57:00.000Z"},"description":"Saturn 3.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3ed"},"occurrence_at":{"$date":"2016-01-07T19:34:00.000Z"},"description":"Venus 6.3°N of Antares"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3ee"},"occurrence_at":{"$date":"2016-01-09T02:00:00.000Z"},"description":"Mercury closest to sun (perihelion)"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3ef"},"occurrence_at":{"$date":"2016-01-10T09:30:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f0"},"occurrence_at":{"$date":"2016-01-14T22:00:00.000Z"},"description":"Mercury at inferior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f1"},"occurrence_at":{"$date":"2016-01-14T23:48:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f2"},"occurrence_at":{"$date":"2016-01-15T10:10:00.000Z"},"description":"Moon closest to Earth (perigee): 369,619 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f3"},"occurrence_at":{"$date":"2016-01-17T07:26:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f4"},"occurrence_at":{"$date":"2016-01-20T10:16:00.000Z"},"description":"Aldebaran 0.5°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f5"},"occurrence_at":{"$date":"2016-01-24T09:46:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f6"},"occurrence_at":{"$date":"2016-01-26T13:10:00.000Z"},"description":"Regulus 2.5°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f7"},"occurrence_at":{"$date":"2016-01-30T19:35:00.000Z"},"description":"Spica 5.0°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f8"},"occurrence_at":{"$date":"2016-02-01T11:28:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3f9"},"occurrence_at":{"$date":"2016-01-28T07:58:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3fa"},"occurrence_at":{"$date":"2016-01-03T07:00:00.000Z"},"description":"Earth closest to sun (perihelion): 91,403,445 miles (147,099,586 km, 0.98330 AU)"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3fb"},"occurrence_at":{"$date":"2016-01-02T19:53:00.000Z"},"description":"Moon farthest from Earth (apogee): 251,207 miles (404,279 km)"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3fc"},"occurrence_at":{"$date":"2016-01-02T13:30:00.000Z"},"description":"LAST QUARTER MOON (pronounced neap tides)"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3fd"},"occurrence_at":{"$date":"2016-02-04T03:05:00.000Z"},"description":"Saturn 3.5°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3fe"},"occurrence_at":{"$date":"2016-02-06T15:32:00.000Z"},"description":"Venus 4.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b3ff"},"occurrence_at":{"$date":"2016-02-07T00:47:00.000Z"},"description":"Mercury 3.8°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b400"},"occurrence_at":{"$date":"2016-02-07T09:00:00.000Z"},"description":"Mercury at greatest elongation: 25.6°W"}
-{"_id":{"$oid":"56e8757279f649df1fd6b401"},"occurrence_at":{"$date":"2016-02-08T22:39:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b402"},"occurrence_at":{"$date":"2016-02-15T15:46:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b403"},"occurrence_at":{"$date":"2016-02-16T15:41:00.000Z"},"description":"Aldebaran 0.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b404"},"occurrence_at":{"$date":"2016-02-22T01:00:00.000Z"},"description":"Mercury at aphelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b405"},"occurrence_at":{"$date":"2016-02-22T20:48:00.000Z"},"description":"Regulus 2.5°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b406"},"occurrence_at":{"$date":"2016-02-23T02:20:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b407"},"occurrence_at":{"$date":"2016-02-24T11:58:00.000Z"},"description":"Jupiter 1.7°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b408"},"occurrence_at":{"$date":"2016-02-24T14:10:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b409"},"occurrence_at":{"$date":"2016-02-27T03:05:00.000Z"},"description":"Spica 5.1°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b40a"},"occurrence_at":{"$date":"2016-02-27T11:28:00.000Z"},"description":"Moon at apogee: 405383 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b40b"},"occurrence_at":{"$date":"2016-02-28T23:00:00.000Z"},"description":"Neptune in conjunction with sun"}
-{"_id":{"$oid":"56e8757279f649df1fd6b40c"},"occurrence_at":{"$date":"2016-02-01T16:48:00.000Z"},"description":"Mars 2.7°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b40d"},"occurrence_at":{"$date":"2016-03-01T02:16:00.000Z"},"description":"Mars 3.6°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b40e"},"occurrence_at":{"$date":"2016-03-02T07:11:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b40f"},"occurrence_at":{"$date":"2016-03-02T14:53:00.000Z"},"description":"Saturn 3.6°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b410"},"occurrence_at":{"$date":"2016-02-11T10:42:00.000Z"},"description":"Moon at perigee: 364358 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b411"},"occurrence_at":{"$date":"2016-03-07T18:54:00.000Z"},"description":"Venus 3.5°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b412"},"occurrence_at":{"$date":"2016-03-08T18:00:00.000Z"},"description":"Jupiter at opposition"}
-{"_id":{"$oid":"56e8757279f649df1fd6b413"},"occurrence_at":{"$date":"2016-03-09T09:57:00.000Z"},"description":"Total solar eclipse; mag=1.045"}
-{"_id":{"$oid":"56e8757279f649df1fd6b414"},"occurrence_at":{"$date":"2016-03-09T14:31:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b415"},"occurrence_at":{"$date":"2016-02-11T04:46:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b416"},"occurrence_at":{"$date":"2016-02-13T11:00:00.000Z"},"description":"Mercury 4.0° of Venus"}
-{"_id":{"$oid":"56e8757279f649df1fd6b417"},"occurrence_at":{"$date":"2016-03-10T15:02:00.000Z"},"description":"Moon at perigee: 359509 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b418"},"occurrence_at":{"$date":"2016-03-14T20:44:00.000Z"},"description":"Aldebaran 0.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b419"},"occurrence_at":{"$date":"2016-03-16T00:03:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b41a"},"occurrence_at":{"$date":"2016-03-20T11:31:00.000Z"},"description":"Vernal equinox"}
-{"_id":{"$oid":"56e8757279f649df1fd6b41b"},"occurrence_at":{"$date":"2016-03-20T21:00:00.000Z"},"description":"Venus at aphelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b41c"},"occurrence_at":{"$date":"2016-03-22T10:57:00.000Z"},"description":"Jupiter 2.1°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b41d"},"occurrence_at":{"$date":"2016-03-22T19:59:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b41e"},"occurrence_at":{"$date":"2016-03-21T02:05:00.000Z"},"description":"Regulus 2.5°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b41f"},"occurrence_at":{"$date":"2016-03-23T18:47:00.000Z"},"description":"Penumbral lunar eclipse; mag=0.775"}
-{"_id":{"$oid":"56e8757279f649df1fd6b420"},"occurrence_at":{"$date":"2016-03-23T19:01:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b421"},"occurrence_at":{"$date":"2016-03-25T08:50:00.000Z"},"description":"Spica 5.1°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b422"},"occurrence_at":{"$date":"2016-03-24T03:00:00.000Z"},"description":"Mercury at superior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b423"},"occurrence_at":{"$date":"2016-03-29T01:45:00.000Z"},"description":"Mars 4.2°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b424"},"occurrence_at":{"$date":"2016-03-09T09:54:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b425"},"occurrence_at":{"$date":"2016-04-06T00:00:00.000Z"},"description":"Mercury at perihelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b426"},"occurrence_at":{"$date":"2016-04-06T00:27:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b427"},"occurrence_at":{"$date":"2016-04-06T15:30:00.000Z"},"description":"Venus 0.7°S of moon: occultation"}
-{"_id":{"$oid":"56e8757279f649df1fd6b428"},"occurrence_at":{"$date":"2016-03-31T22:17:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b429"},"occurrence_at":{"$date":"2016-04-07T18:24:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b42a"},"occurrence_at":{"$date":"2016-04-08T00:36:00.000Z"},"description":"Moon at perigee: 357164 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b42b"},"occurrence_at":{"$date":"2016-04-11T05:05:00.000Z"},"description":"Aldebaran 0.4°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b42c"},"occurrence_at":{"$date":"2016-04-10T04:00:00.000Z"},"description":"Uranus in conjunction with sun"}
-{"_id":{"$oid":"56e8757279f649df1fd6b42d"},"occurrence_at":{"$date":"2016-03-29T21:58:00.000Z"},"description":"Saturn 3.5°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b42e"},"occurrence_at":{"$date":"2016-03-25T21:16:00.000Z"},"description":"Moon at apogee: 406125 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b42f"},"occurrence_at":{"$date":"2016-04-18T21:00:00.000Z"},"description":"Mercury at greatest elongation: 19.9°E"}
-{"_id":{"$oid":"56e8757279f649df1fd6b430"},"occurrence_at":{"$date":"2016-04-19T01:04:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b431"},"occurrence_at":{"$date":"2016-04-21T14:59:00.000Z"},"description":"Spica 5.1°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b432"},"occurrence_at":{"$date":"2016-04-21T23:05:00.000Z"},"description":"Moon at apogee: 406352 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b433"},"occurrence_at":{"$date":"2016-04-22T12:24:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b434"},"occurrence_at":{"$date":"2016-04-22T12:00:00.000Z"},"description":"Lyrid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b435"},"occurrence_at":{"$date":"2016-04-17T07:46:00.000Z"},"description":"Regulus 2.5°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b436"},"occurrence_at":{"$date":"2016-04-25T11:13:00.000Z"},"description":"Mars 4.9°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b437"},"occurrence_at":{"$date":"2016-04-26T02:28:00.000Z"},"description":"Saturn 3.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b438"},"occurrence_at":{"$date":"2016-04-27T20:51:00.000Z"},"description":"Mars 4.8°N of Antares"}
-{"_id":{"$oid":"56e8757279f649df1fd6b439"},"occurrence_at":{"$date":"2016-04-28T15:14:00.000Z"},"description":"Mercury 3.0°S of Pleiades"}
-{"_id":{"$oid":"56e8757279f649df1fd6b43a"},"occurrence_at":{"$date":"2016-04-30T10:29:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b43b"},"occurrence_at":{"$date":"2016-05-03T08:27:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b43c"},"occurrence_at":{"$date":"2016-04-18T11:42:00.000Z"},"description":"Jupiter 2.2°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b43d"},"occurrence_at":{"$date":"2016-04-14T10:59:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b43e"},"occurrence_at":{"$date":"2016-04-08T17:35:00.000Z"},"description":"Mercury 5.2°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b43f"},"occurrence_at":{"$date":"2016-05-07T02:30:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b440"},"occurrence_at":{"$date":"2016-05-08T15:21:00.000Z"},"description":"Aldebaran 0.5°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b441"},"occurrence_at":{"$date":"2016-05-09T22:00:00.000Z"},"description":"Mercury at inferior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b442"},"occurrence_at":{"$date":"2016-05-14T14:06:00.000Z"},"description":"Regulus 2.3°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b443"},"occurrence_at":{"$date":"2016-05-15T16:30:00.000Z"},"description":"Jupiter 2.0°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b444"},"occurrence_at":{"$date":"2016-05-09T22:00:00.000Z"},"description":"Transit of Mercury across sun"}
-{"_id":{"$oid":"56e8757279f649df1fd6b445"},"occurrence_at":{"$date":"2016-05-06T11:14:00.000Z"},"description":"Moon at perigee: 357828 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b446"},"occurrence_at":{"$date":"2016-05-19T05:06:00.000Z"},"description":"Moon at apogee: 405934 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b447"},"occurrence_at":{"$date":"2016-05-05T02:00:00.000Z"},"description":"Eta-Aquarid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b448"},"occurrence_at":{"$date":"2016-05-22T18:00:00.000Z"},"description":"Mars at opposition"}
-{"_id":{"$oid":"56e8757279f649df1fd6b449"},"occurrence_at":{"$date":"2016-05-23T04:59:00.000Z"},"description":"Saturn 3.2°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b44a"},"occurrence_at":{"$date":"2016-05-22T04:15:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b44b"},"occurrence_at":{"$date":"2016-05-29T19:12:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b44c"},"occurrence_at":{"$date":"2016-05-30T11:45:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b44d"},"occurrence_at":{"$date":"2016-06-03T16:47:00.000Z"},"description":"Mercury 0.7°N of moon: occultation"}
-{"_id":{"$oid":"56e8757279f649df1fd6b44e"},"occurrence_at":{"$date":"2016-05-18T21:07:00.000Z"},"description":"Spica 5.1°S of Moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b44f"},"occurrence_at":{"$date":"2016-06-03T17:55:00.000Z"},"description":"Moon at perigee: 361142 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b450"},"occurrence_at":{"$date":"2016-06-05T16:00:00.000Z"},"description":"Mercury at greatest elongation: 24.2°W"}
-{"_id":{"$oid":"56e8757279f649df1fd6b451"},"occurrence_at":{"$date":"2016-06-05T10:00:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b452"},"occurrence_at":{"$date":"2016-06-07T05:00:00.000Z"},"description":"Venus at superior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b453"},"occurrence_at":{"$date":"2016-06-10T21:47:00.000Z"},"description":"Regulus 2.0°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b454"},"occurrence_at":{"$date":"2016-05-16T03:39:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b455"},"occurrence_at":{"$date":"2016-06-12T05:20:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b456"},"occurrence_at":{"$date":"2016-06-12T15:10:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b457"},"occurrence_at":{"$date":"2016-06-03T13:00:00.000Z"},"description":"Saturn at opposition"}
-{"_id":{"$oid":"56e8757279f649df1fd6b458"},"occurrence_at":{"$date":"2016-06-12T02:35:00.000Z"},"description":"Jupiter 1.5°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b459"},"occurrence_at":{"$date":"2016-06-13T17:06:00.000Z"},"description":"Mercury 6.4°S of Pleiades"}
-{"_id":{"$oid":"56e8757279f649df1fd6b45a"},"occurrence_at":{"$date":"2016-06-15T19:00:00.000Z"},"description":"Moon at apogee: 405022 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b45b"},"occurrence_at":{"$date":"2016-06-20T18:02:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b45c"},"occurrence_at":{"$date":"2016-06-21T05:35:00.000Z"},"description":"Summer solstice"}
-{"_id":{"$oid":"56e8757279f649df1fd6b45d"},"occurrence_at":{"$date":"2016-06-19T10:39:00.000Z"},"description":"Mercury 3.7°N of Aldebaran"}
-{"_id":{"$oid":"56e8757279f649df1fd6b45e"},"occurrence_at":{"$date":"2016-06-26T12:28:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b45f"},"occurrence_at":{"$date":"2016-06-15T03:47:00.000Z"},"description":"Spica 5.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b460"},"occurrence_at":{"$date":"2016-06-28T01:19:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b461"},"occurrence_at":{"$date":"2016-05-14T00:02:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b462"},"occurrence_at":{"$date":"2016-07-02T10:58:00.000Z"},"description":"Aldebaran 0.4°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b463"},"occurrence_at":{"$date":"2016-07-04T18:01:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b464"},"occurrence_at":{"$date":"2016-07-04T23:00:00.000Z"},"description":"Earth at aphelion: 1.01675 AU"}
-{"_id":{"$oid":"56e8757279f649df1fd6b465"},"occurrence_at":{"$date":"2016-07-07T10:00:00.000Z"},"description":"Mercury at superior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b466"},"occurrence_at":{"$date":"2016-07-08T06:33:00.000Z"},"description":"Regulus 1.8°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b467"},"occurrence_at":{"$date":"2016-07-09T08:41:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b468"},"occurrence_at":{"$date":"2016-07-09T17:08:00.000Z"},"description":"Jupiter 0.9°N of moon: occultation"}
-{"_id":{"$oid":"56e8757279f649df1fd6b469"},"occurrence_at":{"$date":"2016-07-12T07:52:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b46a"},"occurrence_at":{"$date":"2016-07-12T11:13:00.000Z"},"description":"Spica 5.6°S of Moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b46b"},"occurrence_at":{"$date":"2016-07-11T06:00:00.000Z"},"description":"Venus at perihelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b46c"},"occurrence_at":{"$date":"2016-07-13T12:24:00.000Z"},"description":"Moon at apogee: 404272 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b46d"},"occurrence_at":{"$date":"2016-06-19T07:40:00.000Z"},"description":"Saturn 3.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b46e"},"occurrence_at":{"$date":"2016-07-20T05:57:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b46f"},"occurrence_at":{"$date":"2016-07-16T12:11:00.000Z"},"description":"Saturn 3.4°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b470"},"occurrence_at":{"$date":"2016-07-02T23:00:00.000Z"},"description":"Mercury at perihelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b471"},"occurrence_at":{"$date":"2016-07-01T13:45:00.000Z"},"description":"Moon at perigee: 365983 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b472"},"occurrence_at":{"$date":"2016-07-29T17:53:00.000Z"},"description":"Aldebaran 0.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b473"},"occurrence_at":{"$date":"2016-07-30T22:55:00.000Z"},"description":"Mercury 0.3°N of Regulus"}
-{"_id":{"$oid":"56e8757279f649df1fd6b474"},"occurrence_at":{"$date":"2016-08-03T03:45:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b475"},"occurrence_at":{"$date":"2016-08-04T13:19:00.000Z"},"description":"Venus 2.9°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b476"},"occurrence_at":{"$date":"2016-08-05T05:12:00.000Z"},"description":"Mercury 0.6°N of moon: occultation"}
-{"_id":{"$oid":"56e8757279f649df1fd6b477"},"occurrence_at":{"$date":"2016-08-05T14:48:00.000Z"},"description":"Moon at Ascending Node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b478"},"occurrence_at":{"$date":"2016-07-27T06:00:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b479"},"occurrence_at":{"$date":"2016-08-05T18:57:00.000Z"},"description":"Venus 1.0°N of Regulus"}
-{"_id":{"$oid":"56e8757279f649df1fd6b47a"},"occurrence_at":{"$date":"2016-08-06T10:28:00.000Z"},"description":"Jupiter 0.2°N of moon: occultation"}
-{"_id":{"$oid":"56e8757279f649df1fd6b47b"},"occurrence_at":{"$date":"2016-08-08T19:08:00.000Z"},"description":"Spica 5.8°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b47c"},"occurrence_at":{"$date":"2016-08-10T07:05:00.000Z"},"description":"Moon at apogee: 404266 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b47d"},"occurrence_at":{"$date":"2016-08-11T01:21:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b47e"},"occurrence_at":{"$date":"2016-08-12T19:10:00.000Z"},"description":"Saturn 3.7°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b47f"},"occurrence_at":{"$date":"2016-07-27T18:25:00.000Z"},"description":"Moon at perigee: 369659 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b480"},"occurrence_at":{"$date":"2016-07-23T14:49:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b481"},"occurrence_at":{"$date":"2016-08-15T23:00:00.000Z"},"description":"Mercury at aphelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b482"},"occurrence_at":{"$date":"2016-08-19T21:14:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b483"},"occurrence_at":{"$date":"2016-08-18T16:27:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b484"},"occurrence_at":{"$date":"2016-08-20T13:00:00.000Z"},"description":"Mercury 3.8° of Jupiter"}
-{"_id":{"$oid":"56e8757279f649df1fd6b485"},"occurrence_at":{"$date":"2016-08-22T08:20:00.000Z"},"description":"Moon at perigee: 367047 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b486"},"occurrence_at":{"$date":"2016-07-28T04:00:00.000Z"},"description":"Delta-Aquarid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b487"},"occurrence_at":{"$date":"2016-08-24T12:09:00.000Z"},"description":"Mars 1.8°N of Antares"}
-{"_id":{"$oid":"56e8757279f649df1fd6b488"},"occurrence_at":{"$date":"2016-08-25T10:41:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b489"},"occurrence_at":{"$date":"2016-08-17T04:00:00.000Z"},"description":"Mercury at greatest elongation: 27.4°E"}
-{"_id":{"$oid":"56e8757279f649df1fd6b48a"},"occurrence_at":{"$date":"2016-09-01T16:07:00.000Z"},"description":"Annular solar eclipse; mag=0.974"}
-{"_id":{"$oid":"56e8757279f649df1fd6b48b"},"occurrence_at":{"$date":"2016-09-01T22:27:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b48c"},"occurrence_at":{"$date":"2016-09-02T22:00:00.000Z"},"description":"Neptune at opposition"}
-{"_id":{"$oid":"56e8757279f649df1fd6b48d"},"occurrence_at":{"$date":"2016-08-29T03:00:00.000Z"},"description":"Mercury 5.0° of Venus"}
-{"_id":{"$oid":"56e8757279f649df1fd6b48e"},"occurrence_at":{"$date":"2016-09-03T17:33:00.000Z"},"description":"Venus 1.1°S of moon: occultation"}
-{"_id":{"$oid":"56e8757279f649df1fd6b48f"},"occurrence_at":{"$date":"2016-09-05T02:56:00.000Z"},"description":"Spica 5.8°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b490"},"occurrence_at":{"$date":"2016-09-07T01:44:00.000Z"},"description":"Moon at apogee: 405059 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b491"},"occurrence_at":{"$date":"2016-09-05T03:05:00.000Z"},"description":"Saturn 5.9°N of Antares"}
-{"_id":{"$oid":"56e8757279f649df1fd6b492"},"occurrence_at":{"$date":"2016-08-12T19:00:00.000Z"},"description":"Perseid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b493"},"occurrence_at":{"$date":"2016-09-09T18:49:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b494"},"occurrence_at":{"$date":"2016-09-13T07:00:00.000Z"},"description":"Mercury at inferior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b495"},"occurrence_at":{"$date":"2016-09-16T06:55:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b496"},"occurrence_at":{"$date":"2016-09-17T01:54:00.000Z"},"description":"Penumbral lunar eclipse; mag=0.908"}
-{"_id":{"$oid":"56e8757279f649df1fd6b497"},"occurrence_at":{"$date":"2016-09-17T02:05:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b498"},"occurrence_at":{"$date":"2016-09-18T22:15:00.000Z"},"description":"Venus 2.2°N of Spica"}
-{"_id":{"$oid":"56e8757279f649df1fd6b499"},"occurrence_at":{"$date":"2016-08-25T23:21:00.000Z"},"description":"Aldebaran 0.2°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b49a"},"occurrence_at":{"$date":"2016-09-09T04:23:00.000Z"},"description":"Saturn 3.8°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b49b"},"occurrence_at":{"$date":"2016-09-23T16:56:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b49c"},"occurrence_at":{"$date":"2016-09-19T00:00:00.000Z"},"description":"Moon at perigee: 361894 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b49d"},"occurrence_at":{"$date":"2016-09-01T16:03:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b49e"},"occurrence_at":{"$date":"2016-09-26T13:00:00.000Z"},"description":"Jupiter in conjunction with sun"}
-{"_id":{"$oid":"56e8757279f649df1fd6b49f"},"occurrence_at":{"$date":"2016-09-28T22:00:00.000Z"},"description":"Mercury at perihelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a0"},"occurrence_at":{"$date":"2016-09-28T05:32:00.000Z"},"description":"Regulus 1.7°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a1"},"occurrence_at":{"$date":"2016-09-29T02:00:00.000Z"},"description":"Mercury at greatest elongation: 17.9°W"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a2"},"occurrence_at":{"$date":"2016-09-22T05:13:00.000Z"},"description":"Aldebaran 0.2°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a3"},"occurrence_at":{"$date":"2016-10-04T00:30:00.000Z"},"description":"Venus 5.0°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a4"},"occurrence_at":{"$date":"2016-10-04T18:02:00.000Z"},"description":"Moon at apogee: 406100 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a5"},"occurrence_at":{"$date":"2016-10-06T15:04:00.000Z"},"description":"Saturn 3.8°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a6"},"occurrence_at":{"$date":"2016-10-01T07:12:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a7"},"occurrence_at":{"$date":"2016-10-09T11:33:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a8"},"occurrence_at":{"$date":"2016-10-13T16:43:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4a9"},"occurrence_at":{"$date":"2016-10-15T17:00:00.000Z"},"description":"Uranus at opposition"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4aa"},"occurrence_at":{"$date":"2016-10-16T11:23:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4ab"},"occurrence_at":{"$date":"2016-10-17T06:36:00.000Z"},"description":"Moon at perigee: 357860 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4ac"},"occurrence_at":{"$date":"2016-09-22T21:21:00.000Z"},"description":"Autumnal equinox"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4ad"},"occurrence_at":{"$date":"2016-10-19T13:18:00.000Z"},"description":"Aldebaran 0.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4ae"},"occurrence_at":{"$date":"2016-10-21T12:00:00.000Z"},"description":"Orionid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4af"},"occurrence_at":{"$date":"2016-10-23T02:14:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b0"},"occurrence_at":{"$date":"2016-10-25T11:01:00.000Z"},"description":"Regulus 1.6°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b1"},"occurrence_at":{"$date":"2016-10-26T08:44:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b2"},"occurrence_at":{"$date":"2016-10-26T17:56:00.000Z"},"description":"Venus 3.0°N of Antares"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b3"},"occurrence_at":{"$date":"2016-10-27T23:00:00.000Z"},"description":"Mercury at superior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b4"},"occurrence_at":{"$date":"2016-09-29T05:06:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b5"},"occurrence_at":{"$date":"2016-10-29T19:00:00.000Z"},"description":"Mars at perihelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b6"},"occurrence_at":{"$date":"2016-11-01T02:29:00.000Z"},"description":"Moon at apogee: 406660 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b7"},"occurrence_at":{"$date":"2016-11-03T02:38:00.000Z"},"description":"Saturn 3.7°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b8"},"occurrence_at":{"$date":"2016-11-05T12:00:00.000Z"},"description":"S Taurid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4b9"},"occurrence_at":{"$date":"2016-10-31T00:38:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4ba"},"occurrence_at":{"$date":"2016-11-06T20:07:00.000Z"},"description":"Mars 5.3°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4bb"},"occurrence_at":{"$date":"2016-11-09T23:57:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4bc"},"occurrence_at":{"$date":"2016-11-12T12:00:00.000Z"},"description":"N Taurid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4bd"},"occurrence_at":{"$date":"2016-11-14T19:23:00.000Z"},"description":"Moon at perigee: 356512 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4be"},"occurrence_at":{"$date":"2016-11-14T21:52:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4bf"},"occurrence_at":{"$date":"2016-09-29T17:42:00.000Z"},"description":"Mercury 0.7°N of moon: occultation"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c0"},"occurrence_at":{"$date":"2016-11-20T01:51:00.000Z"},"description":"Beehive 4.3°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c1"},"occurrence_at":{"$date":"2016-11-17T19:00:00.000Z"},"description":"Leonid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c2"},"occurrence_at":{"$date":"2016-11-21T16:33:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c3"},"occurrence_at":{"$date":"2016-11-21T18:08:00.000Z"},"description":"Regulus 1.3°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c4"},"occurrence_at":{"$date":"2016-11-22T10:48:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c5"},"occurrence_at":{"$date":"2016-11-24T03:00:00.000Z"},"description":"Mercury 3.4° of Saturn"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c6"},"occurrence_at":{"$date":"2016-11-25T09:47:00.000Z"},"description":"Jupiter 1.9°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c7"},"occurrence_at":{"$date":"2016-10-28T16:33:00.000Z"},"description":"Jupiter 1.4°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c8"},"occurrence_at":{"$date":"2016-11-28T04:08:00.000Z"},"description":"Moon at apogee: 406556 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4c9"},"occurrence_at":{"$date":"2016-11-29T20:18:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4ca"},"occurrence_at":{"$date":"2016-12-03T20:34:00.000Z"},"description":"Venus 5.8°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4cb"},"occurrence_at":{"$date":"2016-12-05T18:39:00.000Z"},"description":"Mars 2.9°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4cc"},"occurrence_at":{"$date":"2016-12-07T01:35:00.000Z"},"description":"Moon at descending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4cd"},"occurrence_at":{"$date":"2016-12-07T17:03:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4ce"},"occurrence_at":{"$date":"2016-11-16T00:50:00.000Z"},"description":"Aldebaran 0.4°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4cf"},"occurrence_at":{"$date":"2016-11-08T03:51:00.000Z"},"description":"FIRST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d0"},"occurrence_at":{"$date":"2016-12-10T19:00:00.000Z"},"description":"Saturn in conjunction with sun"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d1"},"occurrence_at":{"$date":"2016-12-11T12:00:00.000Z"},"description":"Mercury at greatest elongation: 20.8°E"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d2"},"occurrence_at":{"$date":"2016-12-13T07:27:00.000Z"},"description":"Moon at perigee: 358463 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d3"},"occurrence_at":{"$date":"2016-12-19T02:13:00.000Z"},"description":"Regulus 1.0°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d4"},"occurrence_at":{"$date":"2016-12-19T12:46:00.000Z"},"description":"Moon at ascending node"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d5"},"occurrence_at":{"$date":"2016-12-21T09:56:00.000Z"},"description":"LAST QUARTER MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d6"},"occurrence_at":{"$date":"2016-12-21T18:45:00.000Z"},"description":"Winter solstice"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d7"},"occurrence_at":{"$date":"2016-12-22T16:00:00.000Z"},"description":"Ursid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d8"},"occurrence_at":{"$date":"2016-12-14T08:06:00.000Z"},"description":"FULL MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4d9"},"occurrence_at":{"$date":"2016-12-25T13:55:00.000Z"},"description":"Moon at apogee: 405870 km"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4da"},"occurrence_at":{"$date":"2016-12-25T23:00:00.000Z"},"description":"Mercury at perihelion"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4db"},"occurrence_at":{"$date":"2016-12-29T03:00:00.000Z"},"description":"Mercury at inferior conjunction"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4dc"},"occurrence_at":{"$date":"2016-12-29T14:53:00.000Z"},"description":"NEW MOON"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4dd"},"occurrence_at":{"$date":"2016-12-23T00:37:00.000Z"},"description":"Jupiter 2.4°S of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4de"},"occurrence_at":{"$date":"2016-01-28T09:14:00.000Z"},"description":"Jupiter 1.4°N of moon (closest from North America on January 2:7)"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4df"},"occurrence_at":{"$date":"2016-12-17T11:17:00.000Z"},"description":"Beehive 4.1°N of moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4e0"},"occurrence_at":{"$date":"2016-12-14T08:00:00.000Z"},"description":"Geminid meteor shower"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4e1"},"occurrence_at":{"$date":"2016-12-13T12:14:00.000Z"},"description":"Aldebaran 0.5°S of Moon"}
-{"_id":{"$oid":"56e8757279f649df1fd6b4e2"},"occurrence_at":{"$date":"2016-01-30T17:10:00.000Z"},"description":"Moon farthest from Earth (apogee): 404,553 km"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3e8"},"occurrence_at":{"$date":"2016-01-03T11:35:00.000Z"},"description":"Spica 4.7°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3e9"},"occurrence_at":{"$date":"2016-01-04T02:45:00.000Z"},"description":"Mars 1.5°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3ea"},"occurrence_at":{"$date":"2016-01-04T16:00:00.000Z"},"description":"Quadrantid meteor shower", "type":"show"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3eb"},"occurrence_at":{"$date":"2016-01-07T07:57:00.000Z"},"description":"Venus 3.1°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3ec"},"occurrence_at":{"$date":"2016-01-07T12:57:00.000Z"},"description":"Saturn 3.3°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3ed"},"occurrence_at":{"$date":"2016-01-07T19:34:00.000Z"},"description":"Venus 6.3°N of Antares", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3ee"},"occurrence_at":{"$date":"2016-01-09T02:00:00.000Z"},"description":"Mercury closest to sun (perihelion)", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3ef"},"occurrence_at":{"$date":"2016-01-10T09:30:00.000Z"},"description":"NEW MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f0"},"occurrence_at":{"$date":"2016-01-14T22:00:00.000Z"},"description":"Mercury at inferior conjunction", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f1"},"occurrence_at":{"$date":"2016-01-14T23:48:00.000Z"},"description":"Moon at descending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f2"},"occurrence_at":{"$date":"2016-01-15T10:10:00.000Z"},"description":"Moon closest to Earth (perigee): 369,619 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f3"},"occurrence_at":{"$date":"2016-01-17T07:26:00.000Z"},"description":"FIRST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f4"},"occurrence_at":{"$date":"2016-01-20T10:16:00.000Z"},"description":"Aldebaran 0.5°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f5"},"occurrence_at":{"$date":"2016-01-24T09:46:00.000Z"},"description":"FULL MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f6"},"occurrence_at":{"$date":"2016-01-26T13:10:00.000Z"},"description":"Regulus 2.5°N of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f7"},"occurrence_at":{"$date":"2016-01-30T19:35:00.000Z"},"description":"Spica 5.0°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f8"},"occurrence_at":{"$date":"2016-02-01T11:28:00.000Z"},"description":"LAST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3f9"},"occurrence_at":{"$date":"2016-01-28T07:58:00.000Z"},"description":"Moon at ascending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3fa"},"occurrence_at":{"$date":"2016-01-03T07:00:00.000Z"},"description":"Earth closest to sun (perihelion): 91,403,445 miles (147,099,586 km, 0.98330 AU)", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3fb"},"occurrence_at":{"$date":"2016-01-02T19:53:00.000Z"},"description":"Moon farthest from Earth (apogee): 251,207 miles (404,279 km)", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3fc"},"occurrence_at":{"$date":"2016-01-02T13:30:00.000Z"},"description":"LAST QUARTER MOON (pronounced neap tides)", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3fd"},"occurrence_at":{"$date":"2016-02-04T03:05:00.000Z"},"description":"Saturn 3.5°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3fe"},"occurrence_at":{"$date":"2016-02-06T15:32:00.000Z"},"description":"Venus 4.3°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b3ff"},"occurrence_at":{"$date":"2016-02-07T00:47:00.000Z"},"description":"Mercury 3.8°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b400"},"occurrence_at":{"$date":"2016-02-07T09:00:00.000Z"},"description":"Mercury at greatest elongation: 25.6°W", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b401"},"occurrence_at":{"$date":"2016-02-08T22:39:00.000Z"},"description":"NEW MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b402"},"occurrence_at":{"$date":"2016-02-15T15:46:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b403"},"occurrence_at":{"$date":"2016-02-16T15:41:00.000Z"},"description":"Aldebaran 0.3°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b404"},"occurrence_at":{"$date":"2016-02-22T01:00:00.000Z"},"description":"Mercury at aphelion", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b405"},"occurrence_at":{"$date":"2016-02-22T20:48:00.000Z"},"description":"Regulus 2.5°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b406"},"occurrence_at":{"$date":"2016-02-23T02:20:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b407"},"occurrence_at":{"$date":"2016-02-24T11:58:00.000Z"},"description":"Jupiter 1.7°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b408"},"occurrence_at":{"$date":"2016-02-24T14:10:00.000Z"},"description":"Moon at ascending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b409"},"occurrence_at":{"$date":"2016-02-27T03:05:00.000Z"},"description":"Spica 5.1°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b40a"},"occurrence_at":{"$date":"2016-02-27T11:28:00.000Z"},"description":"Moon at apogee: 405383 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b40b"},"occurrence_at":{"$date":"2016-02-28T23:00:00.000Z"},"description":"Neptune in conjunction with sun", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b40c"},"occurrence_at":{"$date":"2016-02-01T16:48:00.000Z"},"description":"Mars 2.7°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b40d"},"occurrence_at":{"$date":"2016-03-01T02:16:00.000Z"},"description":"Mars 3.6°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b40e"},"occurrence_at":{"$date":"2016-03-02T07:11:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b40f"},"occurrence_at":{"$date":"2016-03-02T14:53:00.000Z"},"description":"Saturn 3.6°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b410"},"occurrence_at":{"$date":"2016-02-11T10:42:00.000Z"},"description":"Moon at perigee: 364358 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b411"},"occurrence_at":{"$date":"2016-03-07T18:54:00.000Z"},"description":"Venus 3.5°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b412"},"occurrence_at":{"$date":"2016-03-08T18:00:00.000Z"},"description":"Jupiter at opposition", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b413"},"occurrence_at":{"$date":"2016-03-09T09:57:00.000Z"},"description":"Total solar eclipse; mag=1.045", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b414"},"occurrence_at":{"$date":"2016-03-09T14:31:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b415"},"occurrence_at":{"$date":"2016-02-11T04:46:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b416"},"occurrence_at":{"$date":"2016-02-13T11:00:00.000Z"},"description":"Mercury 4.0° of Venus", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b417"},"occurrence_at":{"$date":"2016-03-10T15:02:00.000Z"},"description":"Moon at perigee: 359509 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b418"},"occurrence_at":{"$date":"2016-03-14T20:44:00.000Z"},"description":"Aldebaran 0.3°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b419"},"occurrence_at":{"$date":"2016-03-16T00:03:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b41a"},"occurrence_at":{"$date":"2016-03-20T11:31:00.000Z"},"description":"Vernal equinox", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b41b"},"occurrence_at":{"$date":"2016-03-20T21:00:00.000Z"},"description":"Venus at aphelion", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b41c"},"occurrence_at":{"$date":"2016-03-22T10:57:00.000Z"},"description":"Jupiter 2.1°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b41d"},"occurrence_at":{"$date":"2016-03-22T19:59:00.000Z"},"description":"Moon at ascending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b41e"},"occurrence_at":{"$date":"2016-03-21T02:05:00.000Z"},"description":"Regulus 2.5°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b41f"},"occurrence_at":{"$date":"2016-03-23T18:47:00.000Z"},"description":"Penumbral lunar eclipse; mag=0.775", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b420"},"occurrence_at":{"$date":"2016-03-23T19:01:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b421"},"occurrence_at":{"$date":"2016-03-25T08:50:00.000Z"},"description":"Spica 5.1°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b422"},"occurrence_at":{"$date":"2016-03-24T03:00:00.000Z"},"description":"Mercury at superior conjunction", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b423"},"occurrence_at":{"$date":"2016-03-29T01:45:00.000Z"},"description":"Mars 4.2°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b424"},"occurrence_at":{"$date":"2016-03-09T09:54:00.000Z"},"description":"NEW MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b425"},"occurrence_at":{"$date":"2016-04-06T00:00:00.000Z"},"description":"Mercury at perihelion", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b426"},"occurrence_at":{"$date":"2016-04-06T00:27:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b427"},"occurrence_at":{"$date":"2016-04-06T15:30:00.000Z"},"description":"Venus 0.7°S of moon: occultation", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b428"},"occurrence_at":{"$date":"2016-03-31T22:17:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b429"},"occurrence_at":{"$date":"2016-04-07T18:24:00.000Z"},"description":"NEW MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b42a"},"occurrence_at":{"$date":"2016-04-08T00:36:00.000Z"},"description":"Moon at perigee: 357164 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b42b"},"occurrence_at":{"$date":"2016-04-11T05:05:00.000Z"},"description":"Aldebaran 0.4°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b42c"},"occurrence_at":{"$date":"2016-04-10T04:00:00.000Z"},"description":"Uranus in conjunction with sun", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b42d"},"occurrence_at":{"$date":"2016-03-29T21:58:00.000Z"},"description":"Saturn 3.5°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b42e"},"occurrence_at":{"$date":"2016-03-25T21:16:00.000Z"},"description":"Moon at apogee: 406125 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b42f"},"occurrence_at":{"$date":"2016-04-18T21:00:00.000Z"},"description":"Mercury at greatest elongation: 19.9°E", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b430"},"occurrence_at":{"$date":"2016-04-19T01:04:00.000Z"},"description":"Moon at ascending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b431"},"occurrence_at":{"$date":"2016-04-21T14:59:00.000Z"},"description":"Spica 5.1°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b432"},"occurrence_at":{"$date":"2016-04-21T23:05:00.000Z"},"description":"Moon at apogee: 406352 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b433"},"occurrence_at":{"$date":"2016-04-22T12:24:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b434"},"occurrence_at":{"$date":"2016-04-22T12:00:00.000Z"},"description":"Lyrid meteor shower", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b435"},"occurrence_at":{"$date":"2016-04-17T07:46:00.000Z"},"description":"Regulus 2.5°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b436"},"occurrence_at":{"$date":"2016-04-25T11:13:00.000Z"},"description":"Mars 4.9°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b437"},"occurrence_at":{"$date":"2016-04-26T02:28:00.000Z"},"description":"Saturn 3.3°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b438"},"occurrence_at":{"$date":"2016-04-27T20:51:00.000Z"},"description":"Mars 4.8°N of Antares", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b439"},"occurrence_at":{"$date":"2016-04-28T15:14:00.000Z"},"description":"Mercury 3.0°S of Pleiades", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b43a"},"occurrence_at":{"$date":"2016-04-30T10:29:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b43b"},"occurrence_at":{"$date":"2016-05-03T08:27:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b43c"},"occurrence_at":{"$date":"2016-04-18T11:42:00.000Z"},"description":"Jupiter 2.2°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b43d"},"occurrence_at":{"$date":"2016-04-14T10:59:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b43e"},"occurrence_at":{"$date":"2016-04-08T17:35:00.000Z"},"description":"Mercury 5.2°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b43f"},"occurrence_at":{"$date":"2016-05-07T02:30:00.000Z"},"description":"NEW MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b440"},"occurrence_at":{"$date":"2016-05-08T15:21:00.000Z"},"description":"Aldebaran 0.5°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b441"},"occurrence_at":{"$date":"2016-05-09T22:00:00.000Z"},"description":"Mercury at inferior conjunction", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b442"},"occurrence_at":{"$date":"2016-05-14T14:06:00.000Z"},"description":"Regulus 2.3°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b443"},"occurrence_at":{"$date":"2016-05-15T16:30:00.000Z"},"description":"Jupiter 2.0°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b444"},"occurrence_at":{"$date":"2016-05-09T22:00:00.000Z"},"description":"Transit of Mercury across sun", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b445"},"occurrence_at":{"$date":"2016-05-06T11:14:00.000Z"},"description":"Moon at perigee: 357828 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b446"},"occurrence_at":{"$date":"2016-05-19T05:06:00.000Z"},"description":"Moon at apogee: 405934 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b447"},"occurrence_at":{"$date":"2016-05-05T02:00:00.000Z"},"description":"Eta-Aquarid meteor shower", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b448"},"occurrence_at":{"$date":"2016-05-22T18:00:00.000Z"},"description":"Mars at opposition", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b449"},"occurrence_at":{"$date":"2016-05-23T04:59:00.000Z"},"description":"Saturn 3.2°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b44a"},"occurrence_at":{"$date":"2016-05-22T04:15:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b44b"},"occurrence_at":{"$date":"2016-05-29T19:12:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b44c"},"occurrence_at":{"$date":"2016-05-30T11:45:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b44d"},"occurrence_at":{"$date":"2016-06-03T16:47:00.000Z"},"description":"Mercury 0.7°N of moon: occultation", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b44e"},"occurrence_at":{"$date":"2016-05-18T21:07:00.000Z"},"description":"Spica 5.1°S of Moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b44f"},"occurrence_at":{"$date":"2016-06-03T17:55:00.000Z"},"description":"Moon at perigee: 361142 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b450"},"occurrence_at":{"$date":"2016-06-05T16:00:00.000Z"},"description":"Mercury at greatest elongation: 24.2°W", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b451"},"occurrence_at":{"$date":"2016-06-05T10:00:00.000Z"},"description":"NEW MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b452"},"occurrence_at":{"$date":"2016-06-07T05:00:00.000Z"},"description":"Venus at superior conjunction", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b453"},"occurrence_at":{"$date":"2016-06-10T21:47:00.000Z"},"description":"Regulus 2.0°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b454"},"occurrence_at":{"$date":"2016-05-16T03:39:00.000Z"},"description":"Moon at ascending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b455"},"occurrence_at":{"$date":"2016-06-12T05:20:00.000Z"},"description":"Moon at ascending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b456"},"occurrence_at":{"$date":"2016-06-12T15:10:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b457"},"occurrence_at":{"$date":"2016-06-03T13:00:00.000Z"},"description":"Saturn at opposition", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b458"},"occurrence_at":{"$date":"2016-06-12T02:35:00.000Z"},"description":"Jupiter 1.5°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b459"},"occurrence_at":{"$date":"2016-06-13T17:06:00.000Z"},"description":"Mercury 6.4°S of Pleiades", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b45a"},"occurrence_at":{"$date":"2016-06-15T19:00:00.000Z"},"description":"Moon at apogee: 405022 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b45b"},"occurrence_at":{"$date":"2016-06-20T18:02:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b45c"},"occurrence_at":{"$date":"2016-06-21T05:35:00.000Z"},"description":"Summer solstice", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b45d"},"occurrence_at":{"$date":"2016-06-19T10:39:00.000Z"},"description":"Mercury 3.7°N of Aldebaran", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b45e"},"occurrence_at":{"$date":"2016-06-26T12:28:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b45f"},"occurrence_at":{"$date":"2016-06-15T03:47:00.000Z"},"description":"Spica 5.3°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b460"},"occurrence_at":{"$date":"2016-06-28T01:19:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b461"},"occurrence_at":{"$date":"2016-05-14T00:02:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b462"},"occurrence_at":{"$date":"2016-07-02T10:58:00.000Z"},"description":"Aldebaran 0.4°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b463"},"occurrence_at":{"$date":"2016-07-04T18:01:00.000Z"},"description":"NEW MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b464"},"occurrence_at":{"$date":"2016-07-04T23:00:00.000Z"},"description":"Earth at aphelion: 1.01675 AU", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b465"},"occurrence_at":{"$date":"2016-07-07T10:00:00.000Z"},"description":"Mercury at superior conjunction", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b466"},"occurrence_at":{"$date":"2016-07-08T06:33:00.000Z"},"description":"Regulus 1.8°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b467"},"occurrence_at":{"$date":"2016-07-09T08:41:00.000Z"},"description":"Moon at ascending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b468"},"occurrence_at":{"$date":"2016-07-09T17:08:00.000Z"},"description":"Jupiter 0.9°N of moon: occultation", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b469"},"occurrence_at":{"$date":"2016-07-12T07:52:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b46a"},"occurrence_at":{"$date":"2016-07-12T11:13:00.000Z"},"description":"Spica 5.6°S of Moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b46b"},"occurrence_at":{"$date":"2016-07-11T06:00:00.000Z"},"description":"Venus at perihelion", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b46c"},"occurrence_at":{"$date":"2016-07-13T12:24:00.000Z"},"description":"Moon at apogee: 404272 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b46d"},"occurrence_at":{"$date":"2016-06-19T07:40:00.000Z"},"description":"Saturn 3.3°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b46e"},"occurrence_at":{"$date":"2016-07-20T05:57:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b46f"},"occurrence_at":{"$date":"2016-07-16T12:11:00.000Z"},"description":"Saturn 3.4°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b470"},"occurrence_at":{"$date":"2016-07-02T23:00:00.000Z"},"description":"Mercury at perihelion", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b471"},"occurrence_at":{"$date":"2016-07-01T13:45:00.000Z"},"description":"Moon at perigee: 365983 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b472"},"occurrence_at":{"$date":"2016-07-29T17:53:00.000Z"},"description":"Aldebaran 0.3°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b473"},"occurrence_at":{"$date":"2016-07-30T22:55:00.000Z"},"description":"Mercury 0.3°N of Regulus", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b474"},"occurrence_at":{"$date":"2016-08-03T03:45:00.000Z"},"description":"NEW MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b475"},"occurrence_at":{"$date":"2016-08-04T13:19:00.000Z"},"description":"Venus 2.9°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b476"},"occurrence_at":{"$date":"2016-08-05T05:12:00.000Z"},"description":"Mercury 0.6°N of moon: occultation", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b477"},"occurrence_at":{"$date":"2016-08-05T14:48:00.000Z"},"description":"Moon at Ascending Node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b478"},"occurrence_at":{"$date":"2016-07-27T06:00:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b479"},"occurrence_at":{"$date":"2016-08-05T18:57:00.000Z"},"description":"Venus 1.0°N of Regulus", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b47a"},"occurrence_at":{"$date":"2016-08-06T10:28:00.000Z"},"description":"Jupiter 0.2°N of moon: occultation", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b47b"},"occurrence_at":{"$date":"2016-08-08T19:08:00.000Z"},"description":"Spica 5.8°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b47c"},"occurrence_at":{"$date":"2016-08-10T07:05:00.000Z"},"description":"Moon at apogee: 404266 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b47d"},"occurrence_at":{"$date":"2016-08-11T01:21:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b47e"},"occurrence_at":{"$date":"2016-08-12T19:10:00.000Z"},"description":"Saturn 3.7°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b47f"},"occurrence_at":{"$date":"2016-07-27T18:25:00.000Z"},"description":"Moon at perigee: 369659 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b480"},"occurrence_at":{"$date":"2016-07-23T14:49:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b481"},"occurrence_at":{"$date":"2016-08-15T23:00:00.000Z"},"description":"Mercury at aphelion", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b482"},"occurrence_at":{"$date":"2016-08-19T21:14:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b483"},"occurrence_at":{"$date":"2016-08-18T16:27:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b484"},"occurrence_at":{"$date":"2016-08-20T13:00:00.000Z"},"description":"Mercury 3.8° of Jupiter", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b485"},"occurrence_at":{"$date":"2016-08-22T08:20:00.000Z"},"description":"Moon at perigee: 367047 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b486"},"occurrence_at":{"$date":"2016-07-28T04:00:00.000Z"},"description":"Delta-Aquarid meteor shower", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b487"},"occurrence_at":{"$date":"2016-08-24T12:09:00.000Z"},"description":"Mars 1.8°N of Antares", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b488"},"occurrence_at":{"$date":"2016-08-25T10:41:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b489"},"occurrence_at":{"$date":"2016-08-17T04:00:00.000Z"},"description":"Mercury at greatest elongation: 27.4°E", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b48a"},"occurrence_at":{"$date":"2016-09-01T16:07:00.000Z"},"description":"Annular solar eclipse; mag=0.974", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b48b"},"occurrence_at":{"$date":"2016-09-01T22:27:00.000Z"},"description":"Moon at ascending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b48c"},"occurrence_at":{"$date":"2016-09-02T22:00:00.000Z"},"description":"Neptune at opposition", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b48d"},"occurrence_at":{"$date":"2016-08-29T03:00:00.000Z"},"description":"Mercury 5.0° of Venus", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b48e"},"occurrence_at":{"$date":"2016-09-03T17:33:00.000Z"},"description":"Venus 1.1°S of moon: occultation", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b48f"},"occurrence_at":{"$date":"2016-09-05T02:56:00.000Z"},"description":"Spica 5.8°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b490"},"occurrence_at":{"$date":"2016-09-07T01:44:00.000Z"},"description":"Moon at apogee: 405059 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b491"},"occurrence_at":{"$date":"2016-09-05T03:05:00.000Z"},"description":"Saturn 5.9°N of Antares", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b492"},"occurrence_at":{"$date":"2016-08-12T19:00:00.000Z"},"description":"Perseid meteor shower", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b493"},"occurrence_at":{"$date":"2016-09-09T18:49:00.000Z"},"description":"FIRST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b494"},"occurrence_at":{"$date":"2016-09-13T07:00:00.000Z"},"description":"Mercury at inferior conjunction", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b495"},"occurrence_at":{"$date":"2016-09-16T06:55:00.000Z"},"description":"Moon at descending node", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b496"},"occurrence_at":{"$date":"2016-09-17T01:54:00.000Z"},"description":"Penumbral lunar eclipse; mag=0.908", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b497"},"occurrence_at":{"$date":"2016-09-17T02:05:00.000Z"},"description":"FULL MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b498"},"occurrence_at":{"$date":"2016-09-18T22:15:00.000Z"},"description":"Venus 2.2°N of Spica", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b499"},"occurrence_at":{"$date":"2016-08-25T23:21:00.000Z"},"description":"Aldebaran 0.2°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b49a"},"occurrence_at":{"$date":"2016-09-09T04:23:00.000Z"},"description":"Saturn 3.8°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b49b"},"occurrence_at":{"$date":"2016-09-23T16:56:00.000Z"},"description":"LAST QUARTER MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b49c"},"occurrence_at":{"$date":"2016-09-19T00:00:00.000Z"},"description":"Moon at perigee: 361894 km", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b49d"},"occurrence_at":{"$date":"2016-09-01T16:03:00.000Z"},"description":"NEW MOON", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b49e"},"occurrence_at":{"$date":"2016-09-26T13:00:00.000Z"},"description":"Jupiter in conjunction with sun", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b49f"},"occurrence_at":{"$date":"2016-09-28T22:00:00.000Z"},"description":"Mercury at perihelion", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a0"},"occurrence_at":{"$date":"2016-09-28T05:32:00.000Z"},"description":"Regulus 1.7°N of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a1"},"occurrence_at":{"$date":"2016-09-29T02:00:00.000Z"},"description":"Mercury at greatest elongation: 17.9°W", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a2"},"occurrence_at":{"$date":"2016-09-22T05:13:00.000Z"},"description":"Aldebaran 0.2°S of moon", "type":""}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a3"},"occurrence_at":{"$date":"2016-10-04T00:30:00.000Z"},"description":"Venus 5.0°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a4"},"occurrence_at":{"$date":"2016-10-04T18:02:00.000Z"},"description":"Moon at apogee: 406100 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a5"},"occurrence_at":{"$date":"2016-10-06T15:04:00.000Z"},"description":"Saturn 3.8°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a6"},"occurrence_at":{"$date":"2016-10-01T07:12:00.000Z"},"description":"NEW MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a7"},"occurrence_at":{"$date":"2016-10-09T11:33:00.000Z"},"description":"FIRST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a8"},"occurrence_at":{"$date":"2016-10-13T16:43:00.000Z"},"description":"Moon at descending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4a9"},"occurrence_at":{"$date":"2016-10-15T17:00:00.000Z"},"description":"Uranus at opposition", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4aa"},"occurrence_at":{"$date":"2016-10-16T11:23:00.000Z"},"description":"FULL MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4ab"},"occurrence_at":{"$date":"2016-10-17T06:36:00.000Z"},"description":"Moon at perigee: 357860 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4ac"},"occurrence_at":{"$date":"2016-09-22T21:21:00.000Z"},"description":"Autumnal equinox", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4ad"},"occurrence_at":{"$date":"2016-10-19T13:18:00.000Z"},"description":"Aldebaran 0.3°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4ae"},"occurrence_at":{"$date":"2016-10-21T12:00:00.000Z"},"description":"Orionid meteor shower", "type":"meteor"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4af"},"occurrence_at":{"$date":"2016-10-23T02:14:00.000Z"},"description":"LAST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b0"},"occurrence_at":{"$date":"2016-10-25T11:01:00.000Z"},"description":"Regulus 1.6°N of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b1"},"occurrence_at":{"$date":"2016-10-26T08:44:00.000Z"},"description":"Moon at ascending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b2"},"occurrence_at":{"$date":"2016-10-26T17:56:00.000Z"},"description":"Venus 3.0°N of Antares", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b3"},"occurrence_at":{"$date":"2016-10-27T23:00:00.000Z"},"description":"Mercury at superior conjunction", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b4"},"occurrence_at":{"$date":"2016-09-29T05:06:00.000Z"},"description":"Moon at ascending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b5"},"occurrence_at":{"$date":"2016-10-29T19:00:00.000Z"},"description":"Mars at perihelion", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b6"},"occurrence_at":{"$date":"2016-11-01T02:29:00.000Z"},"description":"Moon at apogee: 406660 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b7"},"occurrence_at":{"$date":"2016-11-03T02:38:00.000Z"},"description":"Saturn 3.7°S of moon", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b8"},"occurrence_at":{"$date":"2016-11-05T12:00:00.000Z"},"description":"S Taurid meteor shower", "type":"meteor"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4b9"},"occurrence_at":{"$date":"2016-10-31T00:38:00.000Z"},"description":"NEW MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4ba"},"occurrence_at":{"$date":"2016-11-06T20:07:00.000Z"},"description":"Mars 5.3°S of moon", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4bb"},"occurrence_at":{"$date":"2016-11-09T23:57:00.000Z"},"description":"Moon at descending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4bc"},"occurrence_at":{"$date":"2016-11-12T12:00:00.000Z"},"description":"N Taurid meteor shower", "type":"meteor"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4bd"},"occurrence_at":{"$date":"2016-11-14T19:23:00.000Z"},"description":"Moon at perigee: 356512 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4be"},"occurrence_at":{"$date":"2016-11-14T21:52:00.000Z"},"description":"FULL MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4bf"},"occurrence_at":{"$date":"2016-09-29T17:42:00.000Z"},"description":"Mercury 0.7°N of moon: occultation", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c0"},"occurrence_at":{"$date":"2016-11-20T01:51:00.000Z"},"description":"Beehive 4.3°N of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c1"},"occurrence_at":{"$date":"2016-11-17T19:00:00.000Z"},"description":"Leonid meteor shower", "type":"meteor"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c2"},"occurrence_at":{"$date":"2016-11-21T16:33:00.000Z"},"description":"LAST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c3"},"occurrence_at":{"$date":"2016-11-21T18:08:00.000Z"},"description":"Regulus 1.3°N of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c4"},"occurrence_at":{"$date":"2016-11-22T10:48:00.000Z"},"description":"Moon at ascending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c5"},"occurrence_at":{"$date":"2016-11-24T03:00:00.000Z"},"description":"Mercury 3.4° of Saturn", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c6"},"occurrence_at":{"$date":"2016-11-25T09:47:00.000Z"},"description":"Jupiter 1.9°S of moon", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c7"},"occurrence_at":{"$date":"2016-10-28T16:33:00.000Z"},"description":"Jupiter 1.4°S of moon", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c8"},"occurrence_at":{"$date":"2016-11-28T04:08:00.000Z"},"description":"Moon at apogee: 406556 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4c9"},"occurrence_at":{"$date":"2016-11-29T20:18:00.000Z"},"description":"NEW MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4ca"},"occurrence_at":{"$date":"2016-12-03T20:34:00.000Z"},"description":"Venus 5.8°S of moon", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4cb"},"occurrence_at":{"$date":"2016-12-05T18:39:00.000Z"},"description":"Mars 2.9°S of moon", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4cc"},"occurrence_at":{"$date":"2016-12-07T01:35:00.000Z"},"description":"Moon at descending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4cd"},"occurrence_at":{"$date":"2016-12-07T17:03:00.000Z"},"description":"FIRST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4ce"},"occurrence_at":{"$date":"2016-11-16T00:50:00.000Z"},"description":"Aldebaran 0.4°S of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4cf"},"occurrence_at":{"$date":"2016-11-08T03:51:00.000Z"},"description":"FIRST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d0"},"occurrence_at":{"$date":"2016-12-10T19:00:00.000Z"},"description":"Saturn in conjunction with sun", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d1"},"occurrence_at":{"$date":"2016-12-11T12:00:00.000Z"},"description":"Mercury at greatest elongation: 20.8°E", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d2"},"occurrence_at":{"$date":"2016-12-13T07:27:00.000Z"},"description":"Moon at perigee: 358463 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d3"},"occurrence_at":{"$date":"2016-12-19T02:13:00.000Z"},"description":"Regulus 1.0°N of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d4"},"occurrence_at":{"$date":"2016-12-19T12:46:00.000Z"},"description":"Moon at ascending node", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d5"},"occurrence_at":{"$date":"2016-12-21T09:56:00.000Z"},"description":"LAST QUARTER MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d6"},"occurrence_at":{"$date":"2016-12-21T18:45:00.000Z"},"description":"Winter solstice", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d7"},"occurrence_at":{"$date":"2016-12-22T16:00:00.000Z"},"description":"Ursid meteor shower", "type":"meteor"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d8"},"occurrence_at":{"$date":"2016-12-14T08:06:00.000Z"},"description":"FULL MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4d9"},"occurrence_at":{"$date":"2016-12-25T13:55:00.000Z"},"description":"Moon at apogee: 405870 km", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4da"},"occurrence_at":{"$date":"2016-12-25T23:00:00.000Z"},"description":"Mercury at perihelion", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4db"},"occurrence_at":{"$date":"2016-12-29T03:00:00.000Z"},"description":"Mercury at inferior conjunction", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4dc"},"occurrence_at":{"$date":"2016-12-29T14:53:00.000Z"},"description":"NEW MOON", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4dd"},"occurrence_at":{"$date":"2016-12-23T00:37:00.000Z"},"description":"Jupiter 2.4°S of moon", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4de"},"occurrence_at":{"$date":"2016-01-28T09:14:00.000Z"},"description":"Jupiter 1.4°N of moon (closest from North America on January 2:7)", "type":"planet"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4df"},"occurrence_at":{"$date":"2016-12-17T11:17:00.000Z"},"description":"Beehive 4.1°N of moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4e0"},"occurrence_at":{"$date":"2016-12-14T08:00:00.000Z"},"description":"Geminid meteor shower", "type":"meteor"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4e1"},"occurrence_at":{"$date":"2016-12-13T12:14:00.000Z"},"description":"Aldebaran 0.5°S of Moon", "type":"moon"}
+{"_id":{"$oid":"56e8757279f649df1fd6b4e2"},"occurrence_at":{"$date":"2016-01-30T17:10:00.000Z"},"description":"Moon farthest from Earth (apogee): 404,553 km", "type":"moon"}
